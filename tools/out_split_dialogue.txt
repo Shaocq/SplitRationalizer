@@ -1,0 +1,25 @@
+找到脚本: E:\Steam\steamapps\common\Escape from Duckov\Duckov_Data\globalgamemanagers.assets  MonoScript path_id=1253
+找到实例: E:\Steam\steamapps\common\Escape from Duckov\Duckov_Data\resources.assets  path_id=89206
+
+SplitDialogue MonoBehaviour path_id=89206
+  fadeGroup: UnknownObject -> GameObject ItemSplitDialogue
+  confirmButton: UnknownObject -> GameObject btn_ActivateQuest
+  countText: UnknownObject -> GameObject Count
+  normalIndicator: GameObject Normal
+  slider: UnknownObject -> GameObject Slider
+
+根对象: ItemSplitDialogue
+ItemSplitDialogue  [rect 0.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(1.0,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject, UnknownObject, CanvasGroup, UnknownObject>
+  Content  [rect 1150.0x310.5299987792969 pos=(0.0,0.0) anchors=(0.5,0.5)-(0.5,0.5) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject, UnknownObject, CanvasGroup, UnknownObject, UnknownObject, UnknownObject>
+    Text (TMP)  [rect 144.00999450683594x52.130001068115234 pos=(375.0,-34.06500244140625) anchors=(0.0,1.0)-(0.0,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject>
+    SliderContainer  [rect 734.0x162.39999389648438 pos=(375.0,-141.3300018310547) anchors=(0.0,1.0)-(0.0,1.0) pivot=(0.5,0.5)]  <RectTransform, UnknownObject>
+      Slider  [rect -432.0x40.0 pos=(0.0,0.0) anchors=(0.0,0.5)-(1.0,0.5) pivot=(0.5,0.5)]  <RectTransform, UnknownObject, UnknownObject>
+        Background  [rect -100.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.25)-(1.0,0.75) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject>
+        Fill Area  [rect -100.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.25)-(1.0,0.75) pivot=(0.5,0.5)]  <RectTransform>
+          Fill  [rect 0.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(0.5,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject>
+      Count  [rect 0.0x52.130001068115234 pos=(0.0,0.0) anchors=(0.0,1.0)-(1.0,1.0) pivot=(0.5,1.0)]  <RectTransform, CanvasRenderer, UnknownObject>
+    BtnContainer  [rect 734.0x80.0 pos=(375.0,-262.5299987792969) anchors=(0.0,1.0)-(0.0,1.0) pivot=(0.5,0.5)]  <RectTransform, UnknownObject>
+      btn_ActivateQuest  [rect -400.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(1.0,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject, UnknownObject, UnknownObject, UnknownObject, UnknownObject, UnknownObject>
+        Normal  [rect 0.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(1.0,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject>
+        Busy  [rect 0.0x0.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(1.0,1.0) pivot=(0.5,0.5)]  <RectTransform>
+          Image  [rect -16.0x-16.0 pos=(0.0,0.0) anchors=(0.0,0.0)-(1.0,1.0) pivot=(0.5,0.5)]  <RectTransform, CanvasRenderer, UnknownObject, UnknownObject>

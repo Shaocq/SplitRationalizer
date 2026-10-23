@@ -1,0 +1,1570 @@
+﻿typeID,name,displayName,displayNameKey,maxStackCount,defaultStackCount,stackable
+0,Character,躯壳,Item_Character,1,1,False
+1,0_MeleeWeapon_Template,切肉刀,Item_0_MeleeWeapon_Template,1,1,False
+2,ArmorLV3,三级防弹衣,Item_ArmorLV3,1,1,False
+3,Gem,金色五角星,Item_Gem,1,1,False
+4,1_Rifle-A_template,GunTemplate,Item_1_Rifle-A_template,1,1,False
+8,BatteryR6,R6电池,Item_BatteryR6,20,1,True
+10,Bandage,止血绷带,Item_Bandage,3,3,True
+11,BatteryPP3,PP3电池,Item_BatteryPP3,10,1,True
+12,BeanCan,焗豆罐头,Item_BeanCan,3,1,True
+13,Biscuit,苏打饼干,Item_Biscuit,3,1,True
+14,Cola,可乐,Item_Cola,1,1,False
+15,FirstAidKit_L,大急救箱,Item_FirstAidKit_L,1,1,False
+16,FirstAidKit_M,急救箱,Item_FirstAidKit_M,1,1,False
+17,FirstAidKit_S,小急救箱,Item_FirstAidKit_S,1,1,False
+18,TunaCan_1,水浸金枪鱼罐头,Item_TunaCan_1,3,1,True
+19,TunaCan_2,油浸金枪鱼罐头,Item_TunaCan_2,3,1,True
+20,Aspirin,阿司匹林,Item_Aspirin,9,3,True
+21,Bleach,漂白剂,Item_Bleach,1,1,False
+22,Cigarette,红条香烟,Item_Cigarette,3,1,True
+23,Dynamite,管状炸弹,Item_Dynamite,10,1,True
+24,DynamiteMultiple,集束管状炸弹,Item_DynamiteMultiple,3,1,True
+25,Flashlight,手电,Item_Flashlight,1,1,False
+26,GasMask_01,防毒面具,Item_GasMask_01,1,1,False
+27,Goggle,滑雪镜,Item_Goggle,1,1,False
+28,Nail,钉子,Item_Nail,50,1,True
+29,Vodka,伏特加,Item_Vodka,1,1,False
+30,WD40,MD40,Item_WD40,1,1,False
+31,Wrench,扳手,Item_Wrench,1,1,False
+32,ArmorLV1,一级防弹衣,Item_ArmorLV1,1,1,False
+33,ArmorLV2,二级防弹衣,Item_ArmorLV2,1,1,False
+34,ArmorLV4,四级防弹衣,Item_ArmorLV4,1,1,False
+35,ArmorLV5,五级防弹衣,Item_ArmorLV5,1,1,False
+36,BackpackLV1,装饰包,Item_BackpackLV1,1,1,False
+37,BackpackLV2,小学背包,Item_BackpackLV2,1,1,False
+38,BackpackLV3,旅行包,Item_BackpackLV3,1,1,False
+39,BackpackLV4,生存者背包,Item_BackpackLV4,1,1,False
+40,BackpackLV5,行军背包MAX,Item_BackpackLV5,1,1,False
+41,HelmatLV1,摩托头盔,Item_HelmatLV1,1,1,False
+42,HelmatLV2,老钢盔,Item_HelmatLV2,1,1,False
+43,HelmatLV3,特警头盔,Item_HelmatLV3,1,1,False
+44,HelmatLV4,SightPRO头盔,Item_HelmatLV4,1,1,False
+45,HelmatLV5,SCIFI面罩,Item_HelmatLV5,1,1,False
+46,HelmatLV6,神之电焊头,Item_HelmatLV6,1,1,False
+47,Wrench02,汽车扳手,Item_Wrench02,1,1,False
+48,ContinerL,大扩容箱,Item_ContinerL,1,1,False
+49,ContinerM,中扩容箱,Item_ContinerM,1,1,False
+50,ContinerS,小扩容箱,Item_ContinerS,1,1,False
+51,Clock,闹钟,Item_Clock,1,1,False
+52,Detergent,洁厕灵,Item_Detergent,1,1,False
+53,Drum1,红色大桶,Item_Drum1,1,1,False
+54,Drum2,蓝色大桶,Item_Drum2,1,1,False
+55,Drum3,黄色大桶,Item_Drum3,1,1,False
+56,Drum4,金属油桶,Item_Drum4,1,1,False
+57,GolfClub,高尔夫球棒,Item_GolfClub,1,1,False
+58,Ink,墨水,Item_Ink,1,1,False
+59,Pot,锅,Item_Pot,1,1,False
+60,Tissue,卷纸,Item_Tissue,1,1,False
+61,Zippo,Cippo,Item_Zippo,1,1,False
+62,PressionSencer,压力传感器,Item_PressionSencer,1,1,False
+63,uPhone,uPhone手机,Item_uPhone,1,1,False
+64,Walkie_Talkie,对讲机,Item_Walkie_Talkie,1,1,False
+65,Walkie_Talkie02,军用对讲机,Item_Walkie_Talkie02,1,1,False
+66,FlashGrenade,闪光手雷,Item_FlashGrenade,8,1,True
+67,Grenade,手雷,Item_Grenade,8,1,True
+68,Chocalate,巧克力,Item_Chocalate,3,1,True
+69,EnergyStick,能量棒,Item_EnergyStick,3,1,True
+70,Honey,蜂蜜,Item_Honey,3,1,True
+71,Ketchup,番茄酱,Item_Ketchup,3,1,True
+72,Book,书,Item_Book,5,1,True
+73,Letter,信件,Item_Letter,10,1,True
+74,Key_BlueHouse,安全屋隔间钥匙,Item_Key_BlueHouse,1,1,False
+75,AirplaneToy,飞机模型,Item_AirplaneToy,1,1,False
+76,Ball,足球,Item_Ball,1,1,False
+77,BicyleToy,自行车模型,Item_BicyleToy,1,1,False
+78,Cannon,大炮,Item_Cannon,1,1,False
+79,Compass,指南针,Item_Compass,1,1,False
+80,Dice 2,骰子,Item_Dice_2,10,1,True
+81,Dice,骰子,Item_Dice,10,1,True
+82,Fish,玩具鱼,Item_Fish,1,1,False
+83,Watch,怀表,Item_Watch,1,1,False
+84,Egg,鸭蛋,Item_Egg,4,1,True
+85,Heat,铝热剂,Item_Heat,1,1,False
+86,Propane,丙烷,Item_Propane,1,1,False
+87,Rope,绳子,Item_Rope,1,1,False
+88,Drugs,一堆药,Item_Drugs,50,1,True
+89,Lv,输液药品,Item_Lv,20,1,True
+90,Broom,扫帚,Item_Broom,1,1,False
+91,Driver,平头螺丝刀,Item_Driver,1,1,False
+92,ElectricSaw,电锯,Item_ElectricSaw,1,1,False
+93,GasCanL,金属桶,Item_GasCanL,1,1,False
+94,GasCanS,塑料桶,Item_GasCanS,1,1,False
+95,HammerL,大锤子,Item_HammerL,1,1,False
+96,HammerS,锤子,Item_HammerS,1,1,False
+97,Lantern,煤油灯,Item_Lantern,1,1,False
+98,Shovel,铲子,Item_Shovel,1,1,False
+99,Telescope,望远镜,Item_Telescope,1,1,False
+100,Trap,捕兽陷阱,Item_Trap,4,1,True
+101,Wrench03,撬棍,Item_Wrench03,1,1,False
+102,1_AccessoryTemplate,配件模板,Item_1_AccessoryTemplate,1,1,False
+103,CowMask,奶牛面具,Item_CowMask,1,1,False
+104,Hat,牛仔帽,Item_Hat,1,1,False
+105,CocoMilk,可可奶,Item_CocoMilk,1,1,False
+106,Soda,苏打水,Item_Soda,1,1,False
+107,Waterbottle,水壶,Item_Waterbottle,1,1,False
+108,Whisky,威士忌,Item_Whisky,1,1,False
+109,Pen,钢笔,Item_Pen,1,1,False
+110,Scissors,剪刀,Item_Scissors,1,1,False
+111,Trophy,奖杯,Item_Trophy,1,1,False
+112,Mike,麦克风,Item_Mike,1,1,False
+113,Radio,收音机,Item_Radio,1,1,False
+114,TOMSUNGPhone,TOMSUNG手机,Item_TOMSUNGPhone,1,1,False
+115,Yogurt,酸奶,Item_Yogurt,3,1,True
+116,Newspaper,报纸,Item_Newspaper,10,1,True
+117,Note,笔记,Item_Note,5,1,True
+118,Lipstick,口红,Item_Lipstick,1,1,False
+119,Ring,金戒指,Item_Ring,1,1,False
+120,RingToy,花花戒指,Item_RingToy,1,1,False
+121,Robot,智能机器人,Item_Robot,1,1,False
+122,Rocket,玩具火箭,Item_Rocket,1,1,False
+123,Skull,头骨饰品,Item_Skull,1,1,False
+124,Tambourine,手鼓,Item_Tambourine,1,1,False
+125,Trumpet,小号,Item_Trumpet,1,1,False
+126,Xylophone,木琴,Item_Xylophone,1,1,False
+127,Wheel,轮胎,Item_Wheel,1,1,False
+128,Yarn,线,Item_Yarn,10,1,True
+129,Pumpkin,南瓜,Item_Pumpkin,1,1,False
+130,Basket,购物框,Item_Basket,1,1,False
+131,Cup,杯子,Item_Cup,1,1,False
+132,Cake,蛋糕,Item_Cake,3,1,True
+133,Carrot,胡萝卜,Item_Carrot,3,1,True
+134,Bone,骨头玩具,Item_Bone,20,1,True
+135,Heart,心,Item_Heart,1,1,False
+136,Injection,注射器,Item_Injection,20,1,True
+137,Injection_A,黄针,Item_Injection_A,3,1,True
+138,HeadLantern,头灯,Item_HeadLantern,1,1,False
+139,Bullet_Template,子弹模板,Item_Bullet_Template,60,30,True
+140,Bullet_AR_L_Normal,L-普通弹,Item_Bullet_AR_L_Normal,180,30,True
+141,Bullet_AR_L_Burn,L-燃烧弹,Item_Bullet_AR_L_Burn,180,30,True
+142,Bullet_AR_L_Piercing3,L-穿甲弹,Item_Bullet_AR_L_Piercing3,180,30,True
+143,Bullet_AR_S_Normal,S-普通弹,Item_Bullet_AR_S_Normal,240,30,True
+144,Bullet_AR_S_Dumdums,S-达姆弹,Item_Bullet_AR_S_Dumdums,240,30,True
+145,Bullet_AR_S_Burn,S-燃烧弹,Item_Bullet_AR_S_Burn,240,30,True
+146,Bullet_SHOT_Normal,霰弹-鹿弹,Item_Bullet_SHOT_Normal,80,20,True
+153,Quest_Letter_Explorer,探索者的信,Item_Quest_Letter_Explorer,1,1,False
+154,Key_Dormitory103,宿舍楼103钥匙,Item_Key_Dormitory103,1,1,False
+155,Key_Dormitory106,宿舍楼106钥匙,Item_Key_Dormitory106,1,1,False
+157,Bullet_AR_L_Poison,L-涂毒弹,Item_Bullet_AR_L_Poison,180,30,True
+158,Bullet_AR_L_Piercing5,L-高级穿甲弹,Item_Bullet_AR_L_Piercing5,180,30,True
+159,Bullet_AR_S_Piercing2,S-穿甲弹,Item_Bullet_AR_S_Piercing2,240,30,True
+160,Bullet_AR_S_Piercing4,S-高级穿甲弹,Item_Bullet_AR_S_Piercing4,240,30,True
+161,Bullet_SHOT_Piranha,霰弹-食人鱼,Item_Bullet_SHOT_Piranha,80,20,True
+162,Bullet_SHOT_Burn,霰弹-龙息,Item_Bullet_SHOT_Burn,80,20,True
+163,Bullet_SHOT_Piercing4,霰弹-箭形弹,Item_Bullet_SHOT_Piercing4,80,20,True
+164,Bullet_SHOT_Electric,霰弹-电击,Item_Bullet_SHOT_Electric,80,20,True
+165,Bullet_Sniper_Normal,狙击-普通弹,Item_Bullet_Sniper_Normal,30,10,True
+166,Bullet_Sniper_Piercing3,狙击-穿甲弹,Item_Bullet_Sniper_Piercing3,30,10,True
+167,Bullet_Sniper_Electric,狙击-电击弹,Item_Bullet_Sniper_Electric,30,10,True
+168,Bullet_Sniper_Space,狙击-空间弹,Item_Bullet_Sniper_Space,30,10,True
+169,Bullet_Sniper_Piercing5,狙击-高级穿甲弹,Item_Bullet_Sniper_Piercing5,30,10,True
+174,Grip_AS_Lv_1,突击握把 Lv1,Item_Grip_AS_Lv_1,1,1,False
+175,Grip_AS_Lv_2,突击握把 Lv2,Item_Grip_AS_Lv_2,1,1,False
+176,Grip_AS_Lv_3,突击握把 Lv3,Item_Grip_AS_Lv_3,1,1,False
+177,Grip_SP_Lv_1,快拆握把 Lv1,Item_Grip_SP_Lv_1,1,1,False
+178,Grip_SP_Lv_2,快拆握把 Lv2,Item_Grip_SP_Lv_2,1,1,False
+179,Grip_SP_Lv_3,快拆握把 Lv3,Item_Grip_SP_Lv_3,1,1,False
+180,Grip_Verticle_Lv_1,垂直握把 Lv1,Item_Grip_Verticle_Lv_1,1,1,False
+181,Grip_Verticle_Lv_2,垂直握把 Lv2,Item_Grip_Verticle_Lv_2,1,1,False
+182,Grip_Verticle_Lv_3,垂直握把 Lv3,Item_Grip_Verticle_Lv_3,1,1,False
+183,Muzzle_L_Type_1,大口径制退器 Lv.1,Item_Muzzle_L_Type_1,1,1,False
+184,Muzzle_L_Type_2,大口径制退器 Lv.2,Item_Muzzle_L_Type_2,1,1,False
+185,Muzzle_L_Type_3,大口径制退器 Lv.3,Item_Muzzle_L_Type_3,1,1,False
+186,Muzzle_Shot_Type_1,霰弹枪集束器 Lv.1,Item_Muzzle_Shot_Type_1,1,1,False
+187,Muzzle_Shot_Type_2,霰弹枪集束器 Lv.2,Item_Muzzle_Shot_Type_2,1,1,False
+188,Muzzle_Shot_Type_3,霰弹枪集束器 Lv.3,Item_Muzzle_Shot_Type_3,1,1,False
+189,Muzzle_Sniper_Type_1,狙击枪消音器 Lv.1,Item_Muzzle_Sniper_Type_1,1,1,False
+190,Muzzle_Sniper_Type_2,狙击枪消音器 Lv.2,Item_Muzzle_Sniper_Type_2,1,1,False
+191,Muzzle_Sniper_Type_3,狙击枪消音器 Lv.3,Item_Muzzle_Sniper_Type_3,1,1,False
+192,Muzzle_S_Type_1,小口径制退器 Lv.1,Item_Muzzle_S_Type_1,1,1,False
+193,Muzzle_S_Type_2,小口径制退器 Lv.2,Item_Muzzle_S_Type_2,1,1,False
+194,Muzzle_S_Type_3,小口径制退器 Lv.3,Item_Muzzle_S_Type_3,1,1,False
+195,Scope_4X_Lv_1,4倍镜 Lv1,Item_Scope_4X_Lv_1,1,1,False
+196,Scope_4X_Lv_2,4倍镜 Lv2,Item_Scope_4X_Lv_2,1,1,False
+197,Scope_4X_Lv_3,4倍镜 Lv3,Item_Scope_4X_Lv_3,1,1,False
+198,Scope_8X_Lv_1,8倍镜 Lv1,Item_Scope_8X_Lv_1,1,1,False
+199,Scope_8X_Lv_2,8倍镜 Lv2,Item_Scope_8X_Lv_2,1,1,False
+200,Scope_8X_Lv_3,8倍镜 Lv3,Item_Scope_8X_Lv_3,1,1,False
+201,Scope_Digit_Lv_1,数字瞄具 Lv1,Item_Scope_Digit_Lv_1,1,1,False
+202,Scope_Digit_Lv_2,数字瞄具 Lv2,Item_Scope_Digit_Lv_2,1,1,False
+203,Scope_Digit_Lv_3,数字瞄具 Lv3,Item_Scope_Digit_Lv_3,1,1,False
+204,Scope_Holo_Lv_1,全息瞄具 Lv1,Item_Scope_Holo_Lv_1,1,1,False
+205,Scope_Holo_Lv_2,全息瞄具 Lv2,Item_Scope_Holo_Lv_2,1,1,False
+206,Scope_Holo_Lv_3,全息瞄具 Lv3,Item_Scope_Holo_Lv_3,1,1,False
+207,Scope_Long_Lv_1,快速瞄具 Lv1,Item_Scope_Long_Lv_1,1,1,False
+208,Scope_Long_Lv_2,快速瞄具 Lv2,Item_Scope_Long_Lv_2,1,1,False
+209,Scope_Long_Lv_3,快速瞄具 Lv3,Item_Scope_Long_Lv_3,1,1,False
+210,Scope_RedDot_Lv_1,红点瞄具 Lv1,Item_Scope_RedDot_Lv_1,1,1,False
+211,Scope_RedDot_Lv_2,红点瞄具 Lv2,Item_Scope_RedDot_Lv_2,1,1,False
+212,Scope_RedDot_Lv_3,红点瞄具 Lv3,Item_Scope_RedDot_Lv_3,1,1,False
+213,Stock_Rifle_Lv_1,步枪枪托 Lv1,Item_Stock_Rifle_Lv_1,1,1,False
+214,Stock_Rifle_Lv_2,步枪枪托 Lv2,Item_Stock_Rifle_Lv_2,1,1,False
+215,Stock_Rifle_Lv_3,步枪枪托 Lv3,Item_Stock_Rifle_Lv_3,1,1,False
+216,Stock_Shot_Lv_1,霰弹枪托 Lv1,Item_Stock_Shot_Lv_1,1,1,False
+217,Stock_Shot_Lv_2,霰弹枪托 Lv2,Item_Stock_Shot_Lv_2,1,1,False
+218,Stock_Shot_Lv_3,霰弹枪托 Lv3,Item_Stock_Shot_Lv_3,1,1,False
+219,Stock_SMG_Lv_1,冲锋枪枪托 Lv1,Item_Stock_SMG_Lv_1,1,1,False
+220,Stock_SMG_Lv_2,冲锋枪枪托 Lv2,Item_Stock_SMG_Lv_2,1,1,False
+221,Stock_SMG_Lv_3,冲锋枪枪托 Lv3,Item_Stock_SMG_Lv_3,1,1,False
+222,Stock_Sniper_Lv_1,狙击枪枪托 Lv1,Item_Stock_Sniper_Lv_1,1,1,False
+223,Stock_Sniper_Lv_2,狙击枪枪托 Lv2,Item_Stock_Sniper_Lv_2,1,1,False
+224,Stock_Sniper_Lv_3,狙击枪枪托 Lv3,Item_Stock_Sniper_Lv_3,1,1,False
+225,Tec_Lazer_Lv_1,战术激光 Lv1,Item_Tec_Lazer_Lv_1,1,1,False
+226,Tec_Lazer_Lv_2,战术激光 Lv2,Item_Tec_Lazer_Lv_2,1,1,False
+227,Tec_Lazer_Lv_3,战术激光 Lv3,Item_Tec_Lazer_Lv_3,1,1,False
+228,Tec_Light_Lv_1,战术手电 Lv1,Item_Tec_Light_Lv_1,1,1,False
+229,Tec_Light_Lv_2,战术手电 Lv2,Item_Tec_Light_Lv_2,1,1,False
+230,Tec_Light_Lv_3,战术手电 Lv3,Item_Tec_Light_Lv_3,1,1,False
+231,Magazine_Rifle_Lv_1,大口径扩容弹匣 Lv1,Item_Magazine_Rifle_Lv_1,1,1,False
+232,Magazine_Rifle_Lv_2,大口径扩容弹匣 Lv2,Item_Magazine_Rifle_Lv_2,1,1,False
+233,Magazine_Rifle_Lv_3,大口径扩容弹匣 Lv3,Item_Magazine_Rifle_Lv_3,1,1,False
+234,Magazine_SMG_Lv_1,小口径扩容弹匣 Lv1,Item_Magazine_SMG_Lv_1,1,1,False
+235,Magazine_SMG_Lv_2,小口径扩容弹匣 Lv2,Item_Magazine_SMG_Lv_2,1,1,False
+236,Magazine_SMG_Lv_3,小口径扩容弹匣 Lv3,Item_Magazine_SMG_Lv_3,1,1,False
+238,L_AK102_Lv_2,AK-103,Item_L_AK102_Lv_2,1,1,False
+240,L_AK47_Lv_2,AK-47,Item_L_AK47_Lv_2,1,1,False
+242,L_MF_Lv_2,MF,Item_L_MF_Lv_2,1,1,False
+244,L_RPK_Lv_2,RPK,Item_L_RPK_Lv_2,1,1,False
+246,Sniper_VPO,VPO-101,Item_Sniper_VPO,1,1,False
+248,Shot_Hand_Lv_2,土制猎枪,Item_Shot_Hand_Lv_2,1,1,False
+250,Shot_MP155_Lv_2,MP-155,Item_Shot_MP155_Lv_2,1,1,False
+252,S_AK74_Lv_2,AK-74U,Item_S_AK74_Lv_2,1,1,False
+254,S_GLick_Lv_2,格力克,Item_S_GLick_Lv_2,1,1,False
+256,S_MMG_Lv_2,MMG,Item_S_MMG_Lv_2,1,1,False
+258,S_MP7_Lv_2,MP7,Item_S_MP7_Lv_2,1,1,False
+260,S_UAK45_Lv_2,UP-45,Item_S_UAK45_Lv_2,1,1,False
+262,S_UZI_Lv_2,UZI,Item_S_UZI_Lv_2,1,1,False
+263,Grip_AS_Lv_4,突击握把 Lv4,Item_Grip_AS_Lv_4,1,1,False
+264,Grip_SP_Lv_4,快拆握把 Lv4,Item_Grip_SP_Lv_4,1,1,False
+265,Grip_Verticle_Lv_4,垂直握把 Lv4,Item_Grip_Verticle_Lv_4,1,1,False
+266,Magazine_Rifle_Lv_4,大口径扩容弹匣 Lv4,Item_Magazine_Rifle_Lv_4,1,1,False
+267,Magazine_SMG_Lv_4,小口径扩容弹匣 Lv4,Item_Magazine_SMG_Lv_4,1,1,False
+268,Muzzle_L_Type_4,大口径制退器 Lv.4,Item_Muzzle_L_Type_4,1,1,False
+269,Muzzle_Shot_Type_4,霰弹枪集束器 Lv.4,Item_Muzzle_Shot_Type_4,1,1,False
+270,Muzzle_Sniper_Type_4,狙击枪消音器 Lv.4,Item_Muzzle_Sniper_Type_4,1,1,False
+271,Muzzle_S_Type_4,小口径制退器 Lv.4,Item_Muzzle_S_Type_4,1,1,False
+272,Scope_4X_Lv_4,4倍镜 Lv4,Item_Scope_4X_Lv_4,1,1,False
+273,Scope_8X_Lv_4,8倍镜 Lv4,Item_Scope_8X_Lv_4,1,1,False
+274,Scope_Digit_Lv_4,数字瞄具 Lv4,Item_Scope_Digit_Lv_4,1,1,False
+275,Scope_Holo_Lv_4,全息瞄具 Lv4,Item_Scope_Holo_Lv_4,1,1,False
+276,Scope_Long_Lv_4,快速瞄具 Lv4,Item_Scope_Long_Lv_4,1,1,False
+277,Scope_RedDot_Lv_4,红点瞄具 Lv4,Item_Scope_RedDot_Lv_4,1,1,False
+278,Stock_Rifle_Lv_4,步枪枪托 Lv4,Item_Stock_Rifle_Lv_4,1,1,False
+279,Stock_Shot_Lv_4,霰弹枪托 Lv4,Item_Stock_Shot_Lv_4,1,1,False
+280,Stock_SMG_Lv_4,冲锋枪枪托 Lv4,Item_Stock_SMG_Lv_4,1,1,False
+281,Stock_Sniper_Lv_4,狙击枪枪托 Lv4,Item_Stock_Sniper_Lv_4,1,1,False
+282,Tec_Lazer_Lv_4,战术激光 Lv4,Item_Tec_Lazer_Lv_4,1,1,False
+283,Tec_Light_Lv_4,战术手电 Lv4,Item_Tec_Light_Lv_4,1,1,False
+284,1_Blueprint,蓝图模板,Item_1_Blueprint,1,1,False
+285,BP_AK102,蓝图：AK-103,Item_BP_AK102,1,1,False
+286,BP_AK47,蓝图：AK-47,Item_BP_AK47,1,1,False
+287,BP_AK74U,蓝图：AK-74U,Item_BP_AK74U,1,1,False
+289,BP_HAND,蓝图：土制猎枪,Item_BP_HAND,1,1,False
+290,BP_MF,蓝图：MF,Item_BP_MF,1,1,False
+291,BP_MMG,蓝图：MMG,Item_BP_MMG,1,1,False
+292,BP_MP155,蓝图：MP-155,Item_BP_MP155,1,1,False
+293,BP_MP7,蓝图：MP7,Item_BP_MP7,1,1,False
+294,BP_RPK,蓝图：RPK,Item_BP_RPK,1,1,False
+295,BP_VPO,蓝图：VPO-101,Item_BP_VPO,1,1,False
+296,BP_UAK45,蓝图：UAK-45,Item_BP_UAK45,1,1,False
+297,BP_UZI,蓝图：UZI,Item_BP_UZI,1,1,False
+298,HardDrive,移动硬盘,Item_HardDrive,3,1,True
+299,Quest_HardDrive_Dormitory,移动硬盘：宿舍楼,Item_Quest_HardDrive_Dormitory,1,1,False
+300,Quest_HardDrive_GasStation,移动硬盘：加油站录像,Item_Quest_HardDrive_GasStation,1,1,False
+301,FloppyDisk,J-Lab软盘,Item_FloppyDisk,3,1,True
+302,1_EnemyGun_Template,枪,Item_1_EnemyGun_Template,1,1,False
+303,EGun_SHOT_Storm_NoGraphic,???,Item_EGun_SHOT_Storm_NoGraphic,1,1,False
+304,EGun_AR_Storm_NoGraphic,???,Item_EGun_AR_Storm_NoGraphic,1,1,False
+305,PigKnife,切肉刀,Item_PigKnife,1,1,False
+306,Axe,战斧,Item_Axe,1,1,False
+307,1_Armor_Template,一级防弹衣,Item_1_Armor_Template,1,1,False
+308,ColdCore,冷核碎片,Item_ColdCore,6,1,True
+309,FlamingCore,赤核碎片,Item_FlamingCore,6,1,True
+310,EGun_Magic,???,Item_EGun_Magic,1,1,False
+311,EGun_SMG_Storm_NoGraphic,???,Item_EGun_SMG_Storm_NoGraphic,1,1,False
+312,Key_Card_Factory,工厂门禁卡,Item_Key_Card_Factory,1,1,False
+313,Key_Card_Factory_Uncrack,工厂门禁卡(加密),Item_Key_Card_Factory_Uncrack,1,1,False
+314,BP_Weapon_0_Basic,武器蓝图：基础,Item_BP_Weapon_0_Basic,1,1,False
+315,BP_Weapon_2_Pro,武器蓝图：专业,Item_BP_Weapon_2_Pro,1,1,False
+316,BP_Weapon_1_Advanced,武器蓝图：进阶,Item_BP_Weapon_1_Advanced,1,1,False
+317,BP_Weapon_3_Ultimate,武器蓝图：终极,Item_BP_Weapon_3_Ultimate,1,1,False
+318,Totem_Armor 2,图腾:甲胄 Ⅱ,Item_Totem_Armor_2,1,1,False
+319,Totem_Armor,图腾:甲胄 Ⅰ,Item_Totem_Armor,1,1,False
+320,Totem_GunDamage 2,图腾:进击 Ⅱ,Item_Totem_GunDamage_2,1,1,False
+321,Totem_GunDamage,图腾:进击 Ⅰ,Item_Totem_GunDamage,1,1,False
+322,Totem_MeleeAttack 2,图腾:战士 II,Item_Totem_MeleeAttack_2,1,1,False
+323,Totem_MeleeAttack,图腾:战士 I,Item_Totem_MeleeAttack,1,1,False
+324,Totem_Speed 2,图腾:轻盈 Ⅱ,Item_Totem_Speed_2,1,1,False
+325,Totem_Strong 3,图腾:健壮 Ⅲ,Item_Totem_Strong_3,1,1,False
+326,Bullet_Rocket,火箭弹 Lv1,Item_Bullet_Rocket,6,1,True
+327,Rocket_RPG_Lv_1,RPG-7,Item_Rocket_RPG_Lv_1,1,1,False
+328,GPU,显示卡,Item_GPU,1,1,False
+329,PowerBank,充电宝,Item_PowerBank,1,1,False
+330,InformationFiles,情报文件,Item_InformationFiles,1,1,False
+331,LEDX,LEDX皮肤透照仪,Item_LEDX,1,1,False
+332,Bolt,螺栓,Item_Bolt,50,1,True
+333,Bulb,灯泡,Item_Bulb,20,1,True
+334,Bulb2,节能灯,Item_Bulb2,20,1,True
+335,Nut,螺母,Item_Nut,50,1,True
+336,Cable,电源线,Item_Cable,5,1,True
+337,Cables,电线,Item_Cables,20,1,True
+338,CDDriver,CD驱动器,Item_CDDriver,3,1,True
+339,CircuitBoard,电路板,Item_CircuitBoard,5,1,True
+340,ElectricParts,电子元件,Item_ElectricParts,50,1,True
+341,EnemyGun_Spider_Rifle,???,Item_EnemyGun_Spider_Rifle,1,1,False
+342,EnemyGun_Spider_Ring,???,Item_EnemyGun_Spider_Ring,1,1,False
+343,FishingRod,破旧鱼竿,Item_FishingRod,1,1,False
+344,Bait1,Item_Bait1,Item_Bait1,3,1,True
+345,Bait2,Item_Bait2,Item_Bait2,3,1,True
+346,Fish1,一级鱼,Item_Fish1,1,1,False
+347,Fish2,二级鱼,Item_Fish2,1,1,False
+348,Bait3,Item_Bait3,Item_Bait3,3,1,True
+349,Fish3,三级鱼,Item_Fish3,1,1,False
+350,Bullet_AR_S_Poison,S-涂毒弹,Item_Bullet_AR_S_Poison,240,30,True
+351,Bullet_AR_S_Electric,S-电击弹,Item_Bullet_AR_S_Electric,240,30,True
+352,Bullet_AR_L_Electric,L-电击弹,Item_Bullet_AR_L_Electric,180,30,True
+353,Bullet_AR_L_Space,L-空间弹,Item_Bullet_AR_L_Space,180,30,True
+354,Bullet_AR_S_Space,S-空间弹,Item_Bullet_AR_S_Space,240,30,True
+355,Bullet_SHOT_Piercing2,霰弹-穿甲弹,Item_Bullet_SHOT_Piercing2,80,20,True
+356,AnimalWeapon,空手,Item_AnimalWeapon,1,1,False
+357,A_Bow_Lv_1,劣质弓,Item_A_Bow_Lv_1,1,1,False
+358,Bullet_Arrow_Normal,木箭矢,Item_Bullet_Arrow_Normal,20,10,True
+359,Key_GroundZero_GHouse,灰房子钥匙,Item_Key_GroundZero_GHouse,1,1,False
+360,Key_GroundZero_Storage,杂物围栏钥匙,Item_Key_GroundZero_Storage,1,1,False
+361,Wood,木料,Item_Wood,50,1,True
+362,MetalSlice,金属片,Item_MetalSlice,50,2,True
+363,Bullet_AR_L_Rusted,L-过期子弹,Item_Bullet_AR_L_Rusted,180,30,True
+364,Bullet_AR_S_Rusted,S-生锈子弹,Item_Bullet_AR_S_Rusted,240,30,True
+365,WoodStick,木棍,Item_WoodStick,1,1,False
+366,Quest_Letter_EquipmentMercent,老朋友的信,Item_Quest_Letter_EquipmentMercent,1,1,False
+367,WeaponParts,武器零件,Item_WeaponParts,50,1,True
+368,Feather,虚化的羽毛,Item_Feather,15,1,True
+369,Totem_PhysicResist,图腾:抗物 Ⅰ,Item_Totem_PhysicResist,1,1,False
+370,Totem_FinalDash,图腾：马拉松 Ⅰ,Item_Totem_Marathon,1,1,False
+371,Totem_Hunger,图腾：饥饿大师,Item_Totem_Hunger,1,1,False
+372,Totem_Stamina,图腾：耐力,Item_Totem_Stamina,1,1,False
+373,Quest_Blueprint_TeleporterMachine,传送装置图纸,Item_Quest_Blueprint_TeleporterMachine,1,1,False
+374,Formula_Template,配方：MD40,Item_Formula_WD40,1,1,False
+375,Quest_HardDrive_GroundZero_Signal,农场镇传送密钥,Item_Quest_GroundZero_Signal,1,1,False
+376,BP_RPG,蓝图：RPG发射器,Item_BP_RPG,1,1,False
+377,Formula_Trap,配方：捕兽夹,Item_Formula_Trap,1,1,False
+378,Formula_WD40,配方：MD40,Item_Formula_WD40,1,1,False
+379,ArmorCai,背带衣,Item_Armor_Cai,1,1,False
+380,Basketball,T.H篮球,Item_Basketball,1,1,False
+381,Formula_ArmorCai,配方：背带衣,Item_Formula_ArmorCai,1,1,False
+382,Formula_Wrench03,配方：撬棍,Item_Formula_Wrench03,1,1,False
+383,Formula_Cable,配方：电源线,Item_Formula_Cable,1,1,False
+384,Key_Machine,机械钥匙,Item_Key_Machine,1,1,False
+385,Quest_Watch,怀表,Item_Quest_Watch,1,1,False
+386,Quest_List_GroundZeroGoods,货物清单,Item_Quest_List_GroundZeroGoods,1,1,False
+387,Formula_CircuitBoard,配方：电路板,Item_Formula_CircuitBoard,1,1,False
+388,BitCoin,0.2BTC,Item_BitCoin,1,1,False
+389,Quest_Letter_InShop,神秘留言,Item_Quest_Letter_InShop,1,1,False
+390,Bullet_Energy_S,小型能量弹,Item_Bullet_Energy_S,120,30,True
+391,Energy_CubeGun,方块枪,Item_Energy_CubeGun,1,1,False
+392,BP_CubeGun,蓝图：方块枪,Item_BP_CubeGun,1,1,False
+393,BP_Bullet_Energy_S,蓝图：小型能量弹药,Item_BP_Bullet_Energy_S,1,1,False
+394,ComputeCore,计算核心,Item_ComputeCore,5,1,True
+395,Jinitaimei,黑色针剂,Item_Jinitaimei,3,1,True
+396,Formula_Jinitaimei,配方：黑色药剂,Item_Formula_Jinitaimei,1,1,False
+397,BitcoinMiner,比特币矿机,Item_BitcoinMiner,1,1,False
+398,Injection_Weight,负重针,Item_Injection_Weight,3,1,True
+399,Bullet_Arrow_Explosion,爆炸箭,Item_Bullet_Arrow_Explosion,5,1,True
+400,BP_ArrowExplosion,蓝图：爆炸箭,Item_BP_ArrowExplosion,1,1,False
+401,BP_GPU_Potato,蓝图：土豆显卡,Item_BP_GPU_Potato,1,1,False
+402,GPU_Potato,土豆显卡,Item_GPU_Potato,1,1,False
+403,Potato,土豆,Item_Potato,3,1,True
+404,Bullet_SHOT_Rusted,霰弹-破烂,Item_Bullet_SHOT_Rusted,80,20,True
+405,BP_GasMask,蓝图：防毒面具,Item_BP_GasMask,1,1,False
+406,Bullet_Sniper_Rusted,狙击-劣质子弹,Item_Bullet_Sniper_Rusted,30,10,True
+407,Sniper_Balett,M107,Item_Sniper_Balett,1,1,False
+408,Injection_ElecResist,电抗性针,Item_Injection_ElecResist,3,1,True
+409,Injection_PainResist,镇痛剂,Item_Injection_PainResist,3,1,True
+410,Formula_Injection_ElecResist,配方：电抗性针,Item_Formula_Injection_ElecResist,1,1,False
+411,Formula_Injection_PainResist,配方：镇痛剂,Item_Formula_Injection_PainResist,1,1,False
+412,Magazine_Sniper_Lv_1,狙击枪弹匣 Lv1,Item_Magazine_Sniper_Lv_1,1,1,False
+413,Magazine_Sniper_Lv_2,狙击枪弹匣 Lv2,Item_Magazine_Sniper_Lv_2,1,1,False
+414,Magazine_Sniper_Lv_3,狙击枪弹匣 Lv3,Item_Magazine_Sniper_Lv_3,1,1,False
+415,Magazine_Sniper_Lv_4,狙击枪弹匣 Lv4,Item_Magazine_Sniper_Lv_4,1,1,False
+416,Muzzle_L_Slience_1,大口径消音器 Lv1,Item_Muzzle_L_Slience_1,1,1,False
+417,Muzzle_L_Slience_2,大口径消音器 Lv2,Item_Muzzle_L_Slience_2,1,1,False
+418,Muzzle_L_Slience_3,大口径消音器 Lv3,Item_Muzzle_L_Slience_3,1,1,False
+419,Muzzle_L_Slience_4,大口径消音器 Lv4,Item_Muzzle_L_Slience_4,1,1,False
+420,Muzzle_S_Slience_1,小口径消音器 Lv1,Item_Muzzle_S_Slience_1,1,1,False
+421,Muzzle_S_Slience_2,小口径消音器 Lv2,Item_Muzzle_S_Slience_2,1,1,False
+422,Muzzle_S_Slience_3,小口径消音器 Lv3,Item_Muzzle_S_Slience_3,1,1,False
+423,Muzzle_S_Slience_4,小口径消音器 Lv4,Item_Muzzle_S_Slience_4,1,1,False
+424,Note_BlackMarket,黑市联络笔记,Item_Note_BlackMarket,5,1,True
+425,UDisk,加密U盘,Item_UDisk,5,1,True
+426,Key_HiddenWarehouse_Cellar,地窖钥匙,Item_Key_HiddenWarehouse_Cellar,1,1,False
+427,Quest_Letter_HiddenWarehouse_Explorer,隐居者的信,Item_Quest_Letter_HiddenWarehouse_Explorer,1,1,False
+428,Water,瓶装水,Item_Water,1,1,False
+429,PowerOfWishlist,愿望单之力,Item_PowerOfWishlist,1,1,False
+430,Totem_ElecResist 2,图腾:抗电 Ⅱ,Item_Totem_ElecResist_2,1,1,False
+431,Totem_ElecResist,图腾:抗电 Ⅰ,Item_Totem_ElecResist,1,1,False
+432,Totem_Efficiency 2,图腾:效率 Ⅱ,Item_Totem_Efficiency_2,1,1,False
+433,Totem_GunControl 3,图腾:控枪 Ⅲ,Item_Totem_GunControl_3,1,1,False
+434,Totem_Reload,图腾：战术换弹,Item_Totem_Reload,1,1,False
+435,Totem_Ninja 2,图腾:忍者 Ⅱ,Item_Totem_Ninja_2,1,1,False
+436,Totem_Ninja,图腾:忍者 Ⅰ,Item_Totem_Ninja,1,1,False
+437,Sniper_VPO_Deng,VPO-劳登改,Item_Sniper_VPO_Deng,1,1,False
+438,Injection_HotBlood,热血针剂,Item_Injection_HotBlood,3,1,True
+439,Formula_Injection_HotBlood,配方：热血针剂,Item_Formula_Injection_HotBlood,1,1,False
+440,Key_GasStation_Warehouse,废弃加油站钥匙,Item_Key_GasStation_Warehouse,1,1,False
+441,Key_RedWareHosue_Warehouse,厂区办公室钥匙,Item_Key_RedWareHosue_Warehouse,1,1,False
+442,Key_SmallRoom_HiddenWarehouse,小隔间钥匙,Item_Key_SmallRoom_HiddenWarehouse,1,1,False
+443,Key_HiddenWarehouse_Cellar_Wire,地窖围栏钥匙,Item_Key_HiddenWarehouse_Cellar_Wire,1,1,False
+444,RedBag,红包,Item_RedBag,1,1,False
+445,LuckyNote_1,小纸条,Item_LuckyNote_1,10,1,True
+446,NewYear_AncientCoins,铜钱串,Item_AncientCoins,1,1,False
+447,NewYear_ChineseKnot,中国结,Item_ChineseKnot,1,1,False
+448,NewYear_Lantern,红灯笼,Item_ChineseLantern,1,1,False
+449,Dumpling,饺子,Item_Dumpling,3,1,True
+450,S_GLick_Low,烂格力克,Item_S_GLick_Low,1,1,False
+451,Cash,现金,Item_Cash,1000000,100,True
+452,Grip_ALL_ADS_1,快速握把A,Item_Grip_ALL_ADS_1,1,1,False
+453,Grip_ALL_ADS_2,快速握把B,Item_Grip_ALL_ADS_2,1,1,False
+454,Grip_ALL_MOV_1,Item_Grip_ALL_MOV_1,Item_Grip_ALL_MOV_1,1,1,False
+455,Grip_ALL_REC_1,垂直握把I,Item_Grip_ALL_REC_1,1,1,False
+456,Grip_ALL_REC_2,水平握把I,Item_Grip_ALL_REC_2,1,1,False
+457,Grip_ALL_REC_3,平衡握把,Item_Grip_ALL_REC_3,1,1,False
+458,Grip_ALL_REC_4,垂直握把II,Item_Grip_ALL_REC_4,1,1,False
+459,Grip_ALL_REC_5,水平握把II,Item_Grip_ALL_REC_5,1,1,False
+460,Grip_ALL_SCA_1,腰射握把I,Item_Grip_ALL_SCA_1,1,1,False
+461,Grip_ALL_SCA_2,Item_Grip_ALL_SCA_2,Item_Grip_ALL_SCA_2,1,1,False
+462,Grip_ALL_SCA_3,腰射握把II,Item_Grip_ALL_SCA_3,1,1,False
+463,Muzzle_PST_REC_1,手枪制退器-均衡A,Item_Muzzle_PST_REC_1,1,1,False
+464,Muzzle_PST_REC_2,手枪制退器-均衡B,Item_Muzzle_PST_REC_2,1,1,False
+465,Muzzle_PST_SIL_1,手枪消音器,Item_Muzzle_PST_SIL_1,1,1,False
+466,Muzzle_PST_DIS_1,手枪延长枪口,Item_Muzzle_PST_DIS_1,1,1,False
+467,Muzzle_PST_SCA_1,手枪制退器-散布,Item_Muzzle_PST_SCA_1,1,1,False
+468,Muzzle_SMG_REC_1,冲锋枪制退器-均衡A,Item_Muzzle_SMG_REC_1,1,1,False
+469,Muzzle_SMG_REC_2,冲锋枪制退器-均衡B,Item_Muzzle_SMG_REC_2,1,1,False
+470,Muzzle_SMG_REC_3,冲锋枪垂直制退器,Item_Muzzle_SMG_REC_3,1,1,False
+471,Muzzle_SMG_REC_4,冲锋枪水平制退器,Item_Muzzle_SMG_REC_4,1,1,False
+472,Muzzle_SMG_SCA_1,冲锋枪制退器-散布,Item_Muzzle_SMG_SCA_1,1,1,False
+473,Muzzle_SMG_SCA_2,冲锋枪螺旋制退器,Item_Muzzle_SMG_SCA_2,1,1,False
+474,Muzzle_SMG_SIL_1,冲锋枪消音器,Item_Muzzle_SMG_SIL_1,1,1,False
+475,Muzzle_AR_DIS_1,步枪延长枪口,Item_Muzzle_AR_DIS_1,1,1,False
+476,Muzzle_AR_REC_1,步枪制退器-均衡A,Item_Muzzle_AR_REC_1,1,1,False
+477,Muzzle_AR_REC_2,步枪制退器-均衡B,Item_Muzzle_AR_REC_2,1,1,False
+478,Muzzle_AR_REC_3,步枪垂直制退器,Item_Muzzle_AR_REC_3,1,1,False
+479,Muzzle_AR_REC_4,步枪水平制退器,Item_Muzzle_AR_REC_4,1,1,False
+480,Muzzle_AR_SCA_1,步枪制退器-散布,Item_Muzzle_AR_SCA_1,1,1,False
+481,Muzzle_AR_SCA_2,步枪螺旋制退器,Item_Muzzle_AR_SCA_2,1,1,False
+482,Muzzle_AR_SIL_1,步枪消音器,Item_Muzzle_AR_SIL_1,1,1,False
+483,Muzzle_AR_SIL_2,Item_Muzzle_AR_SIL_2,Item_Muzzle_AR_SIL_2,1,1,False
+484,Muzzle_SNP_DIS_1,狙击枪延长枪口,Item_Muzzle_SNP_DIS_1,1,1,False
+485,Muzzle_SNP_REC_1,狙击枪制退器-均衡A,Item_Muzzle_SNP_REC_1,1,1,False
+486,Muzzle_SNP_REC_2,Item_Muzzle_SNP_REC_2,Item_Muzzle_SNP_REC_2,1,1,False
+487,Muzzle_SNP_REC_3,狙击枪水平制退器,Item_Muzzle_SNP_REC_3,1,1,False
+488,Muzzle_SNP_SCA_1,狙击枪制退器-散布,Item_Muzzle_SNP_SCA_1,1,1,False
+489,Muzzle_SNP_SCA_2,狙击枪制退器-机动,Item_Muzzle_SNP_SCA_2,1,1,False
+490,Muzzle_SNP_SIL_1,狙击枪消音器,Item_Muzzle_SNP_SIL_1,1,1,False
+491,Muzzle_SNP_SIL_2,Item_Muzzle_SNP_SIL_2,Item_Muzzle_SNP_SIL_2,1,1,False
+492,Muzzle_SNP_SIL_3,Item_Muzzle_SNP_SIL_3,Item_Muzzle_SNP_SIL_3,1,1,False
+493,Muzzle_SHT_REC_1,霰弹枪制退器-均衡A,Item_Muzzle_SHT_REC_1,1,1,False
+494,Muzzle_SHT_REC_2,Item_Muzzle_SHT_REC_2,Item_Muzzle_SHT_REC_2,1,1,False
+495,Muzzle_SHT_REC_3,Item_Muzzle_SHT_REC_3,Item_Muzzle_SHT_REC_3,1,1,False
+496,Muzzle_SHT_REC_4,Item_Muzzle_SHT_REC_4,Item_Muzzle_SHT_REC_4,1,1,False
+497,Muzzle_SHT_SCA_1,Item_Muzzle_SHT_SCA_1,Item_Muzzle_SHT_SCA_1,1,1,False
+498,Stock_PST_MOV_1,Item_Stock_PST_MOV_1,Item_Stock_PST_MOV_1,1,1,False
+499,Stock_PST_REL_1,Item_Stock_PST_REL_1,Item_Stock_PST_REL_1,1,1,False
+500,Stock_PST_SCA_1,Item_Stock_PST_SCA_1,Item_Stock_PST_SCA_1,1,1,False
+501,Stock_PST_SCA_2,Item_Stock_PST_SCA_2,Item_Stock_PST_SCA_2,1,1,False
+502,Stock_SMG_MOV_1,Item_Stock_SMG_MOV_1,Item_Stock_SMG_MOV_1,1,1,False
+503,Stock_SMG_REC_1,Item_Stock_SMG_REC_1,Item_Stock_SMG_REC_1,1,1,False
+504,Stock_SMG_REL_1,Item_Stock_SMG_REL_1,Item_Stock_SMG_REL_1,1,1,False
+505,Stock_SMG_SCA_1,Item_Stock_SMG_SCA_1,Item_Stock_SMG_SCA_1,1,1,False
+506,Stock_SMG_SCA_2,Item_Stock_SMG_SCA_2,Item_Stock_SMG_SCA_2,1,1,False
+507,Stock_SMG_SCA_3,Item_Stock_SMG_SCA_3,Item_Stock_SMG_SCA_3,1,1,False
+508,Stock_AR_MOV_1,快速枪托,Item_Stock_AR_MOV_1,1,1,False
+509,Stock_AR_REC_1,平衡枪托I,Item_Stock_AR_REC_1,1,1,False
+510,Stock_AR_REC_2,平衡枪托II,Item_Stock_AR_REC_2,1,1,False
+511,Stock_AR_REL_1,轻型枪托,Item_Stock_AR_REL_1,1,1,False
+512,Stock_AR_SCA_1,Item_Stock_AR_SCA_1,Item_Stock_AR_SCA_1,1,1,False
+513,Stock_AR_SCA_2,Item_Stock_AR_SCA_2,Item_Stock_AR_SCA_2,1,1,False
+514,Stock_AR_SCA_3,腰射枪托I,Item_Stock_AR_SCA_3,1,1,False
+515,Stock_AR_SCA_4,控制枪托,Item_Stock_AR_SCA_4,1,1,False
+516,Stock_AR_SCA_5,腰射枪托II,Item_Stock_AR_SCA_5,1,1,False
+517,Stock_AR_SCA_6,Item_Stock_AR_SCA_6,Item_Stock_AR_SCA_6,1,1,False
+518,Stock_SNP_REC_1,Item_Stock_SNP_REC_1,Item_Stock_SNP_REC_1,1,1,False
+519,Stock_SNP_REC_2,狙击枪平衡枪托II,Item_Stock_SNP_REC_2,1,1,False
+520,Stock_SNP_SCA_1,Item_Stock_SNP_SCA_1,Item_Stock_SNP_SCA_1,1,1,False
+521,Stock_SNP_SCA_2,狙击枪控制枪托I,Item_Stock_SNP_SCA_2,1,1,False
+522,Stock_SNP_SCA_3,Item_Stock_SNP_SCA_3,Item_Stock_SNP_SCA_3,1,1,False
+523,Stock_SNP_SCA_4,狙击枪控制枪托II,Item_Stock_SNP_SCA_4,1,1,False
+524,Stock_SHT_MOV_1,Item_Stock_SHT_MOV_1,Item_Stock_SHT_MOV_1,1,1,False
+525,Stock_SHT_REC_1,Item_Stock_SHT_REC_1,Item_Stock_SHT_REC_1,1,1,False
+526,Stock_SHT_REL_1,Item_Stock_SHT_REL_1,Item_Stock_SHT_REL_1,1,1,False
+527,Stock_SHT_SCA_1,Item_Stock_SHT_SCA_1,Item_Stock_SHT_SCA_1,1,1,False
+528,Stock_SHT_SCA_2,Item_Stock_SHT_SCA_2,Item_Stock_SHT_SCA_2,1,1,False
+529,Stock_SHT_SCA_3,Item_Stock_SHT_SCA_3,Item_Stock_SHT_SCA_3,1,1,False
+530,Stock_SHT_SCA_4,Item_Stock_SHT_SCA_4,Item_Stock_SHT_SCA_4,1,1,False
+531,Magazine_PST_ADS_1,手枪快速弹匣I,Item_Magazine_PST_ADS_1,1,1,False
+532,Magazine_PST_ADS_2,手枪快速弹匣II,Item_Magazine_PST_ADS_2,1,1,False
+533,Magazine_PST_CAP_1,手枪扩容弹匣I,Item_Magazine_PST_CAP_1,1,1,False
+534,Magazine_PST_CAP_2,手枪扩容弹匣II,Item_Magazine_PST_CAP_2,1,1,False
+535,Magazine_PST_REL_1,Item_Magazine_PST_REL_1,Item_Magazine_PST_REL_1,1,1,False
+536,Magazine_SMG_ADS_1,冲锋枪快速弹匣,Item_Magazine_SMG_ADS_1,1,1,False
+537,Magazine_SMG_CAP_1,冲锋枪扩容弹匣I,Item_Magazine_SMG_CAP_1,1,1,False
+538,Magazine_SMG_CAP_2,冲锋枪扩容弹匣II,Item_Magazine_SMG_CAP_2,1,1,False
+539,Magazine_SMG_CAP_3,冲锋枪扩容弹匣III,Item_Magazine_SMG_CAP_3,1,1,False
+540,Magazine_SMG_REL_1,Item_Magazine_SMG_REL_1,Item_Magazine_SMG_REL_1,1,1,False
+541,Magazine_SMG_REL_2,Item_Magazine_SMG_REL_2,Item_Magazine_SMG_REL_2,1,1,False
+542,Magazine_SMG_REL_3,Item_Magazine_SMG_REL_3,Item_Magazine_SMG_REL_3,1,1,False
+543,Magazine_AR_ADS_1,步枪快速弹匣I,Item_Magazine_AR_ADS_1,1,1,False
+544,Magazine_AR_ADS_2,步枪快速弹匣II,Item_Magazine_AR_ADS_2,1,1,False
+545,Magazine_AR_ADS_3,Item_Magazine_AR_ADS_3,Item_Magazine_AR_ADS_3,1,1,False
+546,Magazine_AR_CAP_1,步枪扩容弹匣I,Item_Magazine_AR_CAP_1,1,1,False
+547,Magazine_AR_CAP_2,步枪扩容弹匣II,Item_Magazine_AR_CAP_2,1,1,False
+548,Magazine_AR_CAP_3,步枪扩容弹匣III,Item_Magazine_AR_CAP_3,1,1,False
+549,Magazine_AR_CAP_4,Item_Magazine_AR_CAP_4,Item_Magazine_AR_CAP_4,1,1,False
+550,Magazine_AR_REL_1,Item_Magazine_AR_REL_1,Item_Magazine_AR_REL_1,1,1,False
+551,Magazine_AR_REL_2,Item_Magazine_AR_REL_2,Item_Magazine_AR_REL_2,1,1,False
+552,Magazine_AR_REL_3,Item_Magazine_AR_REL_3,Item_Magazine_AR_REL_3,1,1,False
+553,Magazine_SNP_ADS_1,狙击枪快速弹匣I,Item_Magazine_SNP_ADS_1,1,1,False
+554,Magazine_SNP_ADS_2,狙击枪快速弹匣II,Item_Magazine_SNP_ADS_2,1,1,False
+555,Magazine_SNP_ADS_3,Item_Magazine_SNP_ADS_3,Item_Magazine_SNP_ADS_3,1,1,False
+556,Magazine_SNP_CAP_1,狙击枪扩容弹匣I,Item_Magazine_SNP_CAP_1,1,1,False
+557,Magazine_SNP_CAP_2,狙击枪扩容弹匣II,Item_Magazine_SNP_CAP_2,1,1,False
+558,Magazine_SNP_CAP_3,Item_Magazine_SNP_CAP_3,Item_Magazine_SNP_CAP_3,1,1,False
+559,Magazine_SNP_REL_1,Item_Magazine_SNP_REL_1,Item_Magazine_SNP_REL_1,1,1,False
+560,Magazine_SNP_REL_2,Item_Magazine_SNP_REL_2,Item_Magazine_SNP_REL_2,1,1,False
+561,Magazine_SHT_CAP_1,霰弹枪扩容弹匣I,Item_Magazine_SHT_CAP_1,1,1,False
+562,Magazine_SHT_CAP_2,霰弹枪扩容弹匣II,Item_Magazine_SHT_CAP_2,1,1,False
+563,Magazine_SHT_CAP_3,霰弹枪扩容弹匣III,Item_Magazine_SHT_CAP_3,1,1,False
+564,Magazine_SHT_CAP_4,Item_Magazine_SHT_CAP_4,Item_Magazine_SHT_CAP_4,1,1,False
+565,Magazine_SHT_REL_1,Item_Magazine_SHT_REL_1,Item_Magazine_SHT_REL_1,1,1,False
+566,Magazine_SHT_REL_2,Item_Magazine_SHT_REL_2,Item_Magazine_SHT_REL_2,1,1,False
+567,Magazine_SHT_REL_3,霰弹枪轻型弹匣,Item_Magazine_SHT_REL_3,1,1,False
+568,Scope_AR_4X_1,步枪4倍镜,Item_Scope_AR_4X_1,1,1,False
+569,Scope_SNP_8X_1,狙击枪8倍镜,Item_Scope_SNP_8X_1,1,1,False
+570,Scope_All_Digit_1,数字瞄具,Item_Scope_All_Digit_1,1,1,False
+571,Scope_All_Holo_1,全息瞄具,Item_Scope_All_Holo_1,1,1,False
+572,Scope_All_Long_1,快速瞄具,Item_Scope_All_Long_1,1,1,False
+573,Scope_All_RedDot_1,红点瞄具,Item_Scope_All_RedDot_1,1,1,False
+574,Scope_All_2X_1,2倍镜,Item_Scope_All_2X_1,1,1,False
+575,Tec_Laser_NON_1,Item_Tec_Laser_NON_1,Item_Tec_Laser_NON_1,1,1,False
+576,Tec_Laser_ADS_1,激光-机动,Item_Tec_Laser_ADS_1,1,1,False
+577,Tec_Laser_ADS_2,激光-快反,Item_Tec_Laser_ADS_2,1,1,False
+578,Tec_Laser_SCA_1,激光-基础,Item_Tec_Laser_SCA_1,1,1,False
+579,Tec_Laser_SCA_2,激光-校准,Item_Tec_Laser_SCA_2,1,1,False
+580,Tec_Flashlight_NON_1,战术手电,Item_Tec_Flashlight_NON_1,1,1,False
+583,Muzzle_SHT_SCA_2,Item_Muzzle_SHT_SCA_2,Item_Muzzle_SHT_SCA_2,1,1,False
+584,Muzzle_SHT_SCA_3,霰弹枪制退器-机动,Item_Muzzle_SHT_SCA_3,1,1,False
+594,Bullet_SMG_Rusted,S-生锈弹,Item_Bullet_SMG_Rusted,320,30,True
+595,Bullet_SMG_Normal,S-普通弹,Item_Bullet_SMG_Normal,320,30,True
+596,Bullet_SMG_Burn,S-燃烧弹,Item_Bullet_SMG_Burn,320,30,True
+597,Bullet_SMG_Piercing3,S-穿甲弹,Item_Bullet_SMG_Piercing3,320,30,True
+598,Bullet_SMG_Piercing5,S-高级穿甲弹,Item_Bullet_SMG_Piercing5,320,30,True
+599,Bullet_SMG_Poison,S-毒性弹,Item_Bullet_SMG_Poison,320,30,True
+600,Bullet_SMG_Electric,S-感电弹,Item_Bullet_SMG_Electric,320,30,True
+601,Bullet_SMG_Space,S-空间弹,Item_Bullet_SMG_Space,320,30,True
+602,Bullet_SMG_Dumdums,S-肉伤弹,Item_Bullet_SMG_Dumdums,320,30,True
+603,Bullet_AR_Rusted,AR-生锈弹,Item_Bullet_AR_Rusted,240,30,True
+604,Bullet_AR_Normal,AR-普通弹,Item_Bullet_AR_Normal,240,30,True
+605,Bullet_AR_Burn,AR-燃烧弹,Item_Bullet_AR_Burn,240,30,True
+606,Bullet_AR_Piercing3,AR-穿甲弹,Item_Bullet_AR_Piercing3,240,30,True
+607,Bullet_AR_Piercing5,AR-高级穿甲弹,Item_Bullet_AR_Piercing5,240,30,True
+608,Bullet_AR_Poison,AR-毒性弹,Item_Bullet_AR_Poison,240,30,True
+609,Bullet_AR_Electric,AR-感电弹,Item_Bullet_AR_Electric,240,30,True
+610,Bullet_AR_Space,AR-空间弹,Item_Bullet_AR_Space,240,30,True
+611,Bullet_AR_Dumdums,AR-肉伤弹,Item_Bullet_AR_Dumdums,240,30,True
+612,Bullet_BR_Rusted,L-生锈弹,Item_Bullet_BR_Rusted,240,30,True
+613,Bullet_BR_Normal,L-普通弹,Item_Bullet_BR_Normal,240,30,True
+614,Bullet_BR_Burn,L-燃烧弹,Item_Bullet_BR_Burn,240,30,True
+615,Bullet_BR_Piercing3,L-穿甲弹,Item_Bullet_BR_Piercing3,240,30,True
+616,Bullet_BR_Piercing5,L-高级穿甲弹,Item_Bullet_BR_Piercing5,240,30,True
+617,Bullet_BR_Poison,L-毒性弹,Item_Bullet_BR_Poison,240,30,True
+618,Bullet_BR_Electric,L-感电弹,Item_Bullet_BR_Electric,240,30,True
+619,Bullet_BR_Space,L-空间弹,Item_Bullet_BR_Space,240,30,True
+620,Bullet_BR_Dumdums,L-肉伤弹,Item_Bullet_BR_Dumdums,240,30,True
+621,Bullet_SNP_Rusted,生锈狙击弹,Item_Bullet_SNP_Rusted,40,10,True
+622,Bullet_SNP_Normal,普通狙击弹,Item_Bullet_SNP_Normal,40,10,True
+623,Bullet_SNP_Burn,燃烧狙击弹,Item_Bullet_SNP_Burn,40,10,True
+624,Bullet_SNP_Piercing3,中级穿甲狙击弹,Item_Bullet_SNP_Piercing3,40,10,True
+625,Bullet_SNP_Piercing5,高级穿甲狙击弹,Item_Bullet_SNP_Piercing5,40,10,True
+626,Bullet_SNP_Poison,毒性狙击弹,Item_Bullet_SNP_Poison,40,10,True
+627,Bullet_SNP_Electric,感电狙击弹,Item_Bullet_SNP_Electric,40,10,True
+628,Bullet_SNP_Space,空间狙击弹,Item_Bullet_SNP_Space,40,10,True
+629,Bullet_SNP_Dumdums,肉伤狙击弹,Item_Bullet_SNP_Dumdums,40,10,True
+630,Bullet_SHT_Rusted,生锈霰弹,Item_Bullet_SHT_Rusted,100,20,True
+631,Bullet_SHT_Normal,普通霰弹,Item_Bullet_SHT_Normal,100,20,True
+632,Bullet_SHT_Burn,燃烧霰弹,Item_Bullet_SHT_Burn,100,20,True
+633,Bullet_SHT_Piercing3,穿甲霰弹,Item_Bullet_SHT_Piercing3,100,20,True
+634,Bullet_SHT_Piercing5,高级穿甲霰弹,Item_Bullet_SHT_Piercing5,100,20,True
+635,Bullet_SHT_Poison,毒性霰弹,Item_Bullet_SHT_Poison,100,20,True
+636,Bullet_SHT_Electric,感电霰弹,Item_Bullet_SHT_Electric,100,20,True
+637,Bullet_SHT_Space,空间霰弹,Item_Bullet_SHT_Space,100,20,True
+638,Bullet_SHT_Dumdums,肉伤霰弹,Item_Bullet_SHT_Dumdums,100,20,True
+639,Bullet_MAG_Rusted,MAG-生锈弹,Item_Bullet_MAG_Rusted,32,8,True
+640,Bullet_MAG_Normal,MAG-普通弹,Item_Bullet_MAG_Normal,32,8,True
+641,Bullet_MAG_Burn,MAG-燃烧弹,Item_Bullet_MAG_Burn,32,8,True
+642,Bullet_MAG_Piercing3,MAG-中级穿甲弹,Item_Bullet_MAG_Piercing3,32,8,True
+643,Bullet_MAG_Piercing5,MAG-高级穿甲弹,Item_Bullet_MAG_Piercing5,32,8,True
+644,Bullet_MAG_Poison,MAG-毒性弹,Item_Bullet_MAG_Poison,32,8,True
+645,Bullet_MAG_Electric,MAG-感电弹,Item_Bullet_MAG_Electric,32,8,True
+646,Bullet_MAG_Space,MAG-空间弹,Item_Bullet_MAG_Space,32,8,True
+647,Bullet_MAG_Dumdums,MAG-肉伤弹,Item_Bullet_MAG_Dumdums,32,8,True
+648,Bullet_ARR_Normal,木矢,Item_Bullet_ARR_Normal,30,10,True
+649,Bullet_ARR_Explosion,爆炸矢,Item_Bullet_ARR_Explosion,8,1,True
+650,Bullet_PWS_S,小能量弹,Item_Bullet_PWS_S,320,30,True
+651,Tec_Laser_CIT_1,激光-暴击,Item_Tec_Laser_CIT_1,1,1,False
+652,AR_ADAR_Normal,ADAR 2-15,Item_AR_ADAR_Normal,1,1,False
+653,AR_AUGA1_Normal,StG 77,Item_AR_AUGA1_Normal,1,1,False
+654,AR_AUGA3_Normal,StG 77A3,Item_AR_AUGA3_Normal,1,1,False
+655,SMG_MP5_Normal,MP5,Item_SMG_MP5_Normal,1,1,False
+656,BR_SKS_Normal,SKS-45,Item_BR_SKS_Normal,1,1,False
+657,SHT_TOZ66_Normal,TOZ-66,Item_SHT_TOZ66_Normal,1,1,False
+658,SHT_TOZ106_Normal,TOZ-106,Item_SHT_TOZ106_Normal,1,1,False
+659,AR_VPO136_Normal,VPO-136,Item_AR_VPO136_Normal,1,1,False
+660,SmokeGrenade,烟雾弹,Item_SmokeGrenade,5,1,True
+662,WeaponPartsLv2,中级武器零件,Item_WeaponPartsLv2,50,1,True
+663,WeaponPartsLv3,高级武器零件,Item_WeaponPartsLv3,50,1,True
+665,BP_ADAR,蓝图：ADAR 2-15,Item_BP_ADAR,1,1,False
+666,BP_AUGA1,蓝图：StG 77,Item_BP_AUGA1,1,1,False
+667,BP_AUGA3,蓝图：StG 77A3,Item_BP_AUGA3,1,1,False
+668,BP_MP5,蓝图：MP5,Item_BP_MP5,1,1,False
+669,BP_SKS,蓝图：SKS,Item_BP_SKS,1,1,False
+670,BP_TOZ66,蓝图：TOZ-66,Item_BP_TOZ66,1,1,False
+671,BP_TOZ106,蓝图：TOZ-106,Item_BP_TOZ106,1,1,False
+672,BP_VPO136,蓝图：VPO-136,Item_BP_VPO136,1,1,False
+675,BP_Bullet_BR_Normal,蓝图：普通重型弹,Item_BP_Bullet_BR_Normal,1,1,False
+676,BP_Bullet_SNP_Normal,蓝图：普通狙击弹,Item_BP_Bullet_SNP_Normal,1,1,False
+677,BP_Bullet_SHT_Normal,蓝图：普通霰弹,Item_BP_Bullet_SHT_Normal,1,1,False
+678,BP_Bullet_MAG_Normal,蓝图：MAG-普通弹,Item_BP_Bullet_MAG_Normal,1,1,False
+679,HeadsetLV1,耳机,Item_HeadsetLV1,1,1,False
+680,BR_VSS_Normal,VSS,Item_BR_VSS_Normal,1,1,False
+681,AR_ASVAL_Normal,AS Val,Item_AR_ASVAL_Normal,1,1,False
+682,AR_DTMDR556_Normal,DT MDR-556,Item_AR_DTMDR556_Normal,1,1,False
+683,BR_DTMDR762_Normal,DT MDR-762,Item_BR_DTMDR762_Normal,1,1,False
+688,Bullet_SMG_Piercing2,S-低级穿甲弹,Item_Bullet_SMG_Piercing2,320,30,True
+689,Bullet_SMG_Piercing4,S-中级穿甲弹,Item_Bullet_SMG_Piercing4,320,30,True
+690,Bullet_SMG_Piercing6,S-高级穿甲弹,Item_Bullet_SMG_Piercing6,320,30,True
+691,Bullet_SMG_Break,S-特种弹,Item_Bullet_SMG_Break,320,30,True
+692,Bullet_AR_Piercing2,AR-低级穿甲弹,Item_Bullet_AR_Piercing2,240,30,True
+693,Bullet_AR_Piercing4,AR-中级穿甲弹,Item_Bullet_AR_Piercing4,240,30,True
+694,Bullet_AR_Piercing6,AR-特种穿甲弹,Item_Bullet_AR_Piercing6,240,30,True
+695,Bullet_AR_Break,AR-碎甲弹,Item_Bullet_AR_Break,240,30,True
+696,Bullet_BR_Piercing2,L-低级穿甲弹,Item_Bullet_BR_Piercing2,240,30,True
+697,Bullet_BR_Piercing4,L-中级穿甲弹,Item_Bullet_BR_Piercing4,240,30,True
+698,Bullet_BR_Piercing6,L-特种穿甲弹,Item_Bullet_BR_Piercing6,240,30,True
+699,Bullet_BR_Break,L-碎甲弹,Item_Bullet_BR_Break,240,30,True
+700,Bullet_SNP_Piercing2,穿甲狙击弹,Item_Bullet_SNP_Piercing2,40,10,True
+701,Bullet_SNP_Piercing4,高级穿甲狙击弹,Item_Bullet_SNP_Piercing4,40,10,True
+702,Bullet_SNP_Piercing6,特种穿甲狙击弹,Item_Bullet_SNP_Piercing6,40,10,True
+703,Bullet_SNP_Break,碎甲狙击弹,Item_Bullet_SNP_Break,40,10,True
+704,Bullet_SHT_Piercing2,低级穿甲霰弹,Item_Bullet_SHT_Piercing2,100,20,True
+705,Bullet_SHT_Piercing4,中级穿甲霰弹,Item_Bullet_SHT_Piercing4,100,20,True
+706,Bullet_SHT_Piercing6,高级穿甲霰弹,Item_Bullet_SHT_Piercing6,100,20,True
+707,Bullet_SHT_Break,特种霰弹,Item_Bullet_SHT_Break,100,8,True
+708,Bullet_MAG_Piercing2,MAG-穿甲弹,Item_Bullet_MAG_Piercing2,32,8,True
+709,Bullet_MAG_Piercing4,MAG-高级穿甲弹,Item_Bullet_MAG_Piercing4,32,8,True
+710,Bullet_MAG_Piercing6,MAG-特种穿甲弹,Item_Bullet_MAG_Piercing6,32,8,True
+711,Bullet_MAG_Break,MAG-碎甲弹,Item_Bullet_MAG_Break,32,8,True
+712,Muzzle_PST_DAM_1,手枪增伤枪口,Item_Muzzle_PST_DAM_1,1,1,False
+713,Muzzle_SMG_DAM_1,冲锋枪增伤枪口,Item_Muzzle_SMG_DAM_1,1,1,False
+714,Muzzle_AR_DAM_1,步枪增伤枪口,Item_Muzzle_AR_DAM_1,1,1,False
+715,Muzzle_SNP_DAM_1,狙击枪增伤枪口,Item_Muzzle_SNP_DAM_1,1,1,False
+716,Muzzle_SHT_DAM_1,霰弹枪增伤枪口,Item_Muzzle_SHT_DAM_1,1,1,False
+717,Stock_SMG_SCA_4,冲锋枪腰射枪托II,Item_Stock_SMG_SCA_4,1,1,False
+718,NightVisionGoggles,GPNVG-18夜视仪,Item_NightVisionGoggles,1,1,False
+719,ThermalVisionGoggles,T-7热成像目镜,Item_ThermalVisionGoggles,1,1,False
+733,SMG_MP7_Electric,带电MP7,Item_SMG_MP7_Electric,1,1,False
+734,SMG_PP19Bizon_Normal,Bizon-2,Item_SMG_PP19Bizon_Normal,1,1,False
+735,SMG_PPSH_Normal,PPSh,Item_SMG_PPSH_Normal,1,1,False
+736,SMG_SR3M_Normal,SR-3M,Item_SMG_SR3M_Normal,1,1,False
+737,SMG_Vector9_Normal,Vector,Item_SMG_Vector9_Normal,1,1,False
+738,Formula_FirstAidKit_M,配方：急救箱,Item_Formula_FirstAidKit_M,1,1,False
+740,WhiteGown,白大褂,Item_WhiteGown,1,1,False
+741,Glass,黑色眼镜,Item_Glass,1,1,False
+742,GlassShiny,闪光的眼镜,Item_GlassShiny,1,1,False
+743,fiber,有机纤维,Item_fiber,30,1,True
+744,SunGlass,太阳镜,Item_SunGlass,1,1,False
+745,Quest_Letter_LifeSupportClue,维生系统线索,Item_Quest_Letter_LifeSupportClue,1,1,False
+746,Marker,标记器,Item_Marker,1,1,False
+747,Quest_AirCirculationUnit,空气循环单元,Item_Quest_AirCirculationUnit,1,1,False
+748,ComputingUnit,高性能计算单元,Item_ComputingUnit,1,1,False
+749,BP_ComputingUnit,蓝图：高性能计算单元,Item_BP_ComputingUnit,1,1,False
+750,Quest_HugeMotherBoard,大型主板,Item_Quest_HugeMotherBoard,1,1,False
+751,Quest_DogCollar,爱狗的项圈,Item_Quest_DogCollar,1,1,False
+753,Quest_Blueprint_Thrusters_Encrypted,飞船推进器图纸（加密）,Item_Quest_Blueprint_Thrusters_Encrypted,1,1,False
+754,Key_Card_JLabLv1,J-Lab一级凭证,Item_Key_Card_JLabLv1,1,1,False
+755,Key_Card_JLabLv2,J-Lab二级凭证,Item_Key_Card_JLabLv2,1,1,False
+756,Key_Card_JLabLv3,J-Lab三级凭证,Item_Key_Card_JLabLv3,1,1,False
+757,Quest_ResearchDocument_Thrusters,矢量推进器研究日志,Item_Quest_ResearchDocument_Thrusters,1,1,False
+758,Key_Eyeball_Jlab,矿长的虹膜信息,Item_Eyeball_Jlab,1,1,False
+759,Key_ThrusterResearcherHome,工棚钥匙,Item_Key_ThrusterResearcherHome,1,1,False
+760,Quest_Blueprint_NavigationSystem,导航系统图纸,Item_Quest_Blueprint_NavigationSystem,1,1,False
+761,Quest_StarMap1,星图,Item_Quest_StarMap1,1,1,False
+762,Quest_StarMap2,星图碎片Part2,Item_Quest_StarMap2,1,1,False
+763,Quest_StarMap3,星图碎片Part3,Item_Quest_StarMap3,1,1,False
+764,Plastics,聚乙烯片,Item_Plastics,100,1,True
+765,DuctTape,胶带,Item_DuctTape,5,1,True
+766,Quest_Blueprint_DefenceShield_BlackMarket,宇宙级防御力场蓝图（加密）,Item_Quest_Blueprint_DefenceShield_BlackMarket,1,1,False
+767,TransformDevice,能量重塑装置,Item_TransformDevice,1,1,False
+768,EnergyBall,能源球,Item_EnergyBall,6,1,True
+769,EggWhiteEnergyPieces,蛋清能源碎片,Item_EggWhtieEnergyPieces,10,1,True
+772,PoliceStick,警棍,Item_PoliceStick,1,1,False
+774,Quest_Blueprint_ComputingUnit_Encrypted,高性能计算单元蓝图（加密）,Item_Quest_Blueprint_ComputingUnit_Encrypted,1,1,False
+775,Quest_Power_ComputingUnit,5000w电源,Item_Quest_Power_ComputingUnit,1,1,False
+776,Muzzle_SHT_SIL_1,霰弹枪重型消音器,Item_Muzzle_SHT_SIL_1,1,1,False
+777,Stock_SNP_MOV_1,狙击枪快速枪托,Item_Stock_SNP_MOV_1,1,1,False
+778,Quest_Cooling_ComputingUnit,大型散热器,Item_Quest_Cooling_ComputingUnit,1,1,False
+779,Key_Farm_JLabStaffHome,家门钥匙01,Item_Key_Farm_JLabStaffHome,1,1,False
+780,Sniper_M700_Normal,M700,Item_Sniper_M700_Normal,1,1,False
+781,Sniper_Mosin_Normal,Mosin-Nagant,Item_Sniper_Mosin_Normal,1,1,False
+782,Sniper_SV98_Normal,SV98,Item_Sniper_SV98_Normal,1,1,False
+783,PST_TT33_Normal,TT-33,Item_PST_TT33_Normal,1,1,False
+784,PST_PM_Normal,PM,Item_PST_PM_Normal,1,1,False
+785,MAG_Desert_Normal,沙漠之鹰,Item_MAG_Desert_Normal,1,1,False
+786,BR_M1A_Normal,M1A,Item_BR_M1A_Normal,1,1,False
+787,BR_M14_Normal,M14,Item_BR_M14_Normal,1,1,False
+788,AR_MCXSpear_Normal,MCX Spear,Item_AR_MCXSpear_Normal,1,1,False
+790,ArmorLV1Fire,一级防火服,Item_ArmorLV1Fire,1,1,False
+791,Jacket,皮夹克,Item_Jacket,1,1,False
+793,Formula_Injection_A,配方：黄针,Item_Formula_Injection_A,1,1,False
+794,Formula_Injection_Weight,配方：负重针,Item_Formula_Injection_Weight,1,1,False
+795,Key_HiddenWarehouse_RBHouse,民房钥匙,Item_Key_HiddenWarehouse_RBHouse,1,1,False
+796,BP_ThermalVisionGoggles,蓝图：T-7热成像目镜,Item_BP_ThermalVisionGoggles,1,1,False
+797,Injection_StoneSkin,硬化针,Item_Injection_StoneSkin,3,1,True
+798,Injection_Stamina,持久针,Item_Injection_Stamina,3,1,True
+799,UVBulb2,紫外灯,Item_UVBulb2,20,1,True
+800,Injection_MeleeDamage,近战针,Item_Injection_MeleeDamage,3,1,True
+801,Key_Card_Yellow,J-Lab门禁卡（黄）,Item_Key_Card_Yellow,1,1,False
+802,Key_Card_Red,J-Lab门禁卡（红）,Item_Key_Card_Red,1,1,False
+803,Key_Card_Green,J-Lab门禁卡（绿）,Item_Key_Card_Green,1,1,False
+804,Key_Card_Blue,J-Lab门禁卡（蓝）,Item_Key_Card_Blue,1,1,False
+805,BP_VSS,蓝图：VSS,Item_BP_VSS,1,1,False
+806,BP_ASVAL,蓝图：AS Val,Item_BP_ASVAL,1,1,False
+807,BP_DTMDR556,蓝图：DT MDR-556,Item_BP_DTMDR556,1,1,False
+808,BP_DTMDR762,蓝图：DT MDR-762,Item_BP_DTMDR762,1,1,False
+809,BP_MP7_Electric,蓝图：带电MP7,Item_BP_MP7_Electric,1,1,False
+810,BP_PP19Bizon,蓝图：Bizon-2,Item_BP_PP19Bizon,1,1,False
+811,BP_PPSH,蓝图：PPSh,Item_BP_PPSH,1,1,False
+812,BP_SR3M,蓝图：SR-3M,Item_BP_SR3M,1,1,False
+813,BP_Vector9,蓝图：Vector,Item_BP_Vector9,1,1,False
+814,BP_M700,蓝图：M700,Item_BP_M700,1,1,False
+815,BP_Mosin,蓝图：Mosin-Nagant,Item_BP_Mosin,1,1,False
+816,BP_SV98,蓝图：SV98,Item_BP_SV98,1,1,False
+817,BP_TT33,蓝图：TT-33,Item_BP_TT33,1,1,False
+818,BP_PM,蓝图：PM,Item_BP_PM,1,1,False
+819,BP_Desert,蓝图：沙漠之鹰,Item_BP_Desert,1,1,False
+820,BP_M1A,蓝图：M1A,Item_BP_M1A,1,1,False
+821,BP_M14,蓝图：M14,Item_BP_M14,1,1,False
+822,BP_MCXSpear,蓝图：MCX Spear,Item_BP_MCXSpear,1,1,False
+823,Quest_BlueprintPieces_MF_1,MF蓝图碎片1,Item_Quest_BlueprintPieces_MF_1,1,1,False
+824,Quest_BlueprintPieces_MF_2,MF蓝图碎片2,Item_Quest_BlueprintPieces_MF_2,1,1,False
+825,Quest_BlueprintPieces_MF_3,MF蓝图碎片3,Item_Quest_BlueprintPieces_MF_3,1,1,False
+826,Key_Card_ SouthFactory,南厂区钥匙卡,Item_Key_Card_ SouthFactory,1,1,False
+827,Key_MysteryX,神秘钥匙X,Item_Key_MysteryX,1,1,False
+828,Key_MysteryO,神秘钥匙O,Item_Key_MysteryO,1,1,False
+829,Key_MysteryZ,神秘Z钥匙,Item_Key_MysteryZ,1,1,False
+830,BP_NightVisionGoggles,蓝图：夜视仪,Item_BP_NightVisionGoggles,1,1,False
+831,Key_Farm_SuperMarketSmallRoom,超市隔间钥匙,Item_Key_Farm_SuperMarketSmallRoom,1,1,False
+832,Key_Farm_RestaurantSmallRoom,餐厅隔间钥匙,Item_Key_Farm_RestaurantSmallRoom,1,1,False
+833,UniversalGlueA,万能胶A,Item_UniversalGlueA,1,1,False
+834,UniversalGlueB,万能胶B,Item_UniversalGlueB,1,1,False
+835,Quest_DeliverBox_DestoryOnBase,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+836,KeyRing,钥匙包,Item_KeyRing,1,1,False
+837,Magazine_BR_ADS_1,BR快速弹匣I,Item_Magazine_BR_ADS_1,1,1,False
+838,Magazine_BR_ADS_2,BR快速弹匣II,Item_Magazine_BR_ADS_2,1,1,False
+839,Magazine_BR_CAP_1,BR扩容弹匣I,Item_Magazine_BR_CAP_1,1,1,False
+840,Magazine_BR_CAP_2,BR扩容弹鼓II,Item_Magazine_BR_CAP_2,1,1,False
+841,Xing,麻布头套,Item_Xing,1,1,False
+842,Formula_UVBulb2,配方：紫外灯,Item_Formula_UVBulb2,1,1,False
+843,Formula_Drum1,配方：红色大桶,Item_Formula_Drum1,1,1,False
+844,Formula_Drum2,配方：蓝色大桶,Item_Formula_Drum2,1,1,False
+845,Formula_Drum3,配方：黄色大桶,Item_Formula_Drum3,1,1,False
+846,Formula_Drum4,配方：金属油桶,Item_Formula_Drum4,1,1,False
+848,Blindfold,遮眼布,Item_Blindfold,1,1,False
+849,BoatTicket,船票,Item_BoatTicket,1,1,False
+850,Bullet_Enemy_Piercing1,Item_Bullet_Enemy_Piercing1,Item_Bullet_Enemy_Piercing1,999,30,True
+851,Bullet_Enemy_Piercing2,Item_Bullet_Enemy_Piercing2,Item_Bullet_Enemy_Piercing2,999,30,True
+852,Bullet_Enemy_Piercing3,Item_Bullet_Enemy_Piercing3,Item_Bullet_Enemy_Piercing3,999,30,True
+853,Bullet_Enemy_Piercing4,Item_Bullet_Enemy_Piercing4,Item_Bullet_Enemy_Piercing4,999,30,True
+854,Bullet_Enemy_Piercing5,Item_Bullet_Enemy_Piercing5,Item_Bullet_Enemy_Piercing5,999,30,True
+855,Bullet_Enemy_Piercing6,Item_Bullet_Enemy_Piercing6,Item_Bullet_Enemy_Piercing6,999,30,True
+856,Injection_StormProtection1,弱效空间风暴防护针,Item_Injection_StormProtection1,3,1,True
+857,Injection_StormProtection2,测试用空间风暴防护针,Item_Injection_StormProtection2,3,1,True
+858,ArmorLV4StormProtection,空间防护服,Item_ArmorLV4StormProtection,1,1,False
+859,HelmatLV3StormProtection,空间防护头盔,Item_HelmatLV3StormProtection,1,1,False
+860,SpaceCrystal,空间晶体,Item_SpaceCrystal,10,1,True
+861,WeaponPartsPolluted,被污染的武器零件,Item_WeaponPartsPolluted,50,1,True
+862,AR_AK47_Fire,带火AK-47,Item_AR_AK47_Fire,1,1,False
+863,BP_AR_AK47_Fire,蓝图：带火AK47,BP_AR_AK47_Fire,1,1,False
+864,GunPowder,火药,Item_GunPowder,900,30,True
+865,Formula_Dynamite,配方：管状炸弹,Item_Formula_Dynamite,1,1,False
+866,Formula_DynamiteMultiple,配方：集束管状炸弹,Item_Formula_DynamiteMultiple,1,1,False
+867,BP_GLick,蓝图：Glick,Item_BP_Glick,1,1,False
+868,DemoChallengeTicket,挑战船票,Item_DemoChallengeTicket,1,1,False
+869,ARR_BurstBow_Normal,连珠弓,Item_ARR_BurstBow_Normal,1,1,False
+870,Bullet_ARR_Piercing2,低级穿甲箭,Item_Bullet_ARR_Piercing2,30,10,True
+871,Bullet_ARR_Piercing4,中级穿甲箭,Item_Bullet_ARR_Piercing4,30,10,True
+872,Injection_RecoilControl,强翅针,Item_Injection_RecoilControl,3,1,True
+873,Formula_WeaponPartsPolluted,配方：被污染的武器零件,Item_Formula_WeaponPartsPolluted,1,1,False
+874,Formula_ContinerL,配方：大扩容箱,Item_Formula_ContinerL,1,1,False
+875,Injection_Healing,恢复针,Item_Injection_Healing,3,1,True
+876,SHT_MP155M_Normal,MP-155 ULTIMA,Item_SHT_MP155M_Normal,1,1,False
+877,BP_MP155M,蓝图：MP-155 ULTIMA,Item_BP_MP155M,1,1,False
+878,mushroom,蘑菇,Item_mushroom,3,1,True
+879,EGun_Magic_Ring,???,Item_EGun_Magic_Ring,1,1,False
+880,PaperBoxArmor,Item_PaperBoxArmor,Item_PaperBoxArmor,1,1,False
+881,PaperBox,纸箱子,Item_PaperBox,4,1,True
+882,InjectionBag,注射器收纳包,Item_InjectionBag,1,1,False
+883,ProteinPowder,蛋白粉,Item_ProteinPowder,1,1,False
+884,Formula_ProteinPowder,配方：蛋白粉,Item_Formula_ProteinPowder,1,1,False
+885,ArmorLV6,六级防弹衣,Item_ArmorLV6,1,1,False
+886,Key_Card_Black,J-Lab门禁卡（黑）,Item_Key_Card_Black,1,1,False
+887,Key_Card_Purple,J-Lab门禁卡（紫）,Item_Key_Card_Purple,1,1,False
+888,Apple,苹果,Item_Apple,3,1,True
+889,Helmat_Vida,维达头盔,Item_Helmat_Vida,1,1,False
+890,BlackDogTag,狗牌,Item_BlackDogTag,10,1,True
+891,Helmat_Roadblock,路障头盔,Item_Helmat_Roadblock,1,1,False
+892,EnemyGun_RoadBlock_Rifle,???,Item_EnemyGun_RoadBlock_Rifle,1,1,False
+893,AnimalWeapon_Invisable,空手,Item_AnimalWeapon,1,1,False
+894,Armor_SBossPhysical_ResPoison,噗咙防弹衣,Item_Armor_SBossPhysical_ResPoison,1,1,False
+895,Helmat_SBossPhysical_ResPoison,噗咙头盔,Item_Helmat_SBossPhysical_ResPoison,1,1,False
+896,Armor_SBossPoison_LowDurResFire,咕噜防弹衣,Item_Armor_SBossPoison_LowDurResFire,1,1,False
+897,Helmat_SBossPoison_LowDurResFire,咕噜头盔,Item_Helmat_SBossPoison_LowDurResFire,1,1,False
+898,EGun_StormBoss_1_BreakArmor,???,Item_EGun_StormBoss_1_BreakArmor,1,1,False
+899,EGun_StormBoss_2_Poison,Item_EGun_StormBoss_2_Poison,Item_EGun_StormBoss_2_Poison,1,1,False
+900,EGun_StormBoss_3_Fire,Item_EGun_StormBoss_3_Fire,Item_EGun_StormBoss_3_Fire,1,1,False
+901,EGun_StormBoss_4_Electric,Item_EGun_StormBoss_4_Electric,Item_EGun_StormBoss_4_Electric,1,1,False
+902,EGun_StormBoss_5_Space,\?\?\?,Item_EGun_StormBoss_5_Space,1,1,False
+908,Armor_SBossFire_ResElec,啪啦防弹衣,Item_Armor_SBossFire_ResElec,1,1,False
+909,Armor_SBossElec_ResSpace,比利防弹衣,Item_Armor_SBossElec_ResSpace,1,1,False
+910,Armor_SBossSpace,口口防弹衣,Item_Armor_SBossSpace,1,1,False
+911,Helmat_SBossFire_ResElec,啪啦头盔,Item_Helmat_SBossFire_ResElec,1,1,False
+912,Helmat_SBossElec_ResSpace,比利头盔,Item_Helmat_SBossElec_ResSpace,1,1,False
+913,Helmat_SBossSpace,口口头盔,Item_Helmat_SBossSpace,1,1,False
+914,PST_StormBoss_Poison,咕噜枪,Item_PST_StormBoss_Poison,1,1,False
+915,BR_Storm_Space,风暴枪,Item_BR_Storm_Space,1,1,False
+916,MG_StormBoss_Fire,啪啦枪,Item_MG_StormBoss_Fire,1,1,False
+917,SHT_StormBoss_Elec,比利枪,Item_SHT_StormBoss_Elec,1,1,False
+918,Bullet_PWL_L,大型能量弹,Item_Bullet_PWL_L,200,30,True
+919,TestSeed,测试种子,Item_AppleSeed,1,1,False
+920,ArmorLV5StormProtection,空间防护服终极版,Item_ArmorLV5StormProtection,1,1,False
+921,HelmatLV5StormProtection,空间防护头盔最终版,Item_HelmatLV5StormProtection,1,1,False
+922,Cartridge_Snake,蛇形武装,Item_Cartridge_Snake,1,1,False
+923,FutureConsole,未来主机,Item_FutureConsole,1,1,False
+924,GameTable,Item_GameTable,Item_GameTable,1,1,False
+925,MonochromeMonitor,黑白显示器,Item_MonochromeMonitor,1,1,False
+926,AcceleratorCard,加速卡,Item_AcceleratorCard,1,1,False
+927,Cartridge_BubblePop,碳酸危鸭,Item_Cartridge_BubblePop,1,1,False
+928,Cartridge_FactoryPanicShock,Item_Cartridge_FactoryPanicShock,Item_Cartridge_FactoryPanicShock,1,1,False
+929,Cartridge_GoldMiner,鸭鸭矿工,Item_Cartridge_GoldMiner,1,1,False
+930,ColorMonitor,彩色显示器,Item_ColorMonitor,1,1,False
+931,EGun_Magic_Ring_Mushroom,???,Item_EGun_Magic_Ring_Mushroom,1,1,False
+932,Stone,小石头,Item_Stone,12,4,True
+933,ToxGrenade,毒雾弹,Item_ToxGrenade,8,1,True
+934,Helmat_Soda_battery1,Item_Helmat_Soda_battery1,Item_Helmat_Soda_battery1,1,1,False
+935,Helmat_Soda_battery2,Item_Helmat_Soda_battery2,Item_Helmat_Soda_battery2,1,1,False
+936,Helmat_Soda_Bucket,罐子头盔,Item_Helmat_Soda_Bucket,1,1,False
+937,Helmat_Soda_Displayer,Item_Helmat_Soda_Displayer,Item_Helmat_Soda_Displayer,1,1,False
+938,Shit,粑粑,Item_Shit,5,1,True
+939,Shit_Fly,粑粑,Item_Shit,1,1,False
+940,Shit_FlyBoss,粑粑,Item_Shit,1,1,False
+941,FireGrenade,燃烧弹,Item_FireGrenade,8,1,True
+942,ElecGrenade,电击手雷,Item_ElecGrenade,8,1,True
+943,Poop_ShitGun_Poison,噗噗枪,Item_Poop_ShitGun_Poison,1,1,False
+944,Bullet_Poop_Normal,粑粑弹,Item_Bullet_Poop_Normal,200,30,True
+945,Backpack_Fly_Wing,蝇蝇翅膀,Item_Backpack_Fly_Wing,1,1,False
+946,Poop_ShotShitGun_Poison,噗噗喷,Item_Poop_ShotShitGun_Poison,1,1,False
+947,Totem_Armor 3,图腾:甲胄 Ⅲ,Item_Totem_Armor_3,1,1,False
+948,Totem_Attack 2,图腾:攻击 II,Item_Totem_Attack_2,1,1,False
+949,Totem_Attack 3,图腾:攻击 Ⅲ,Item_Totem_Attack_3,1,1,False
+950,Totem_Attack,图腾:攻击 I,Item_Totem_Attack,1,1,False
+951,Totem_ElecResist 3,图腾:抗电 Ⅲ,Item_Totem_ElecResist_3,1,1,False
+952,Totem_FinalDash 2,图腾：马拉松 Ⅱ,Item_Totem_Marathon_2,1,1,False
+953,Totem_FinalDash 3,图腾：马拉松 Ⅲ,Item_Totem_Marathon_3,1,1,False
+954,Totem_FireResist 2,图腾:抗火 Ⅱ,Item_Totem_FireResist_2,1,1,False
+955,Totem_FireResist 3,图腾:抗火 Ⅲ,Item_Totem_FireResist_3,1,1,False
+956,Totem_FireResist,图腾:抗火 Ⅰ,Item_Totem_FireResist,1,1,False
+957,Totem_GunDamage 3,图腾:进击 Ⅲ,Item_Totem_GunDamage_3,1,1,False
+958,Totem_Healing 2,图腾:恢复 Ⅱ,Item_Totem_Healing_2,1,1,False
+959,Totem_Healing 3,图腾:恢复 Ⅲ,Item_Totem_Healing_3,1,1,False
+960,Totem_Healing,图腾:恢复 Ⅰ,Item_Totem_Healing,1,1,False
+961,Totem_MaxHealth 2,图腾:生命 Ⅱ,Item_Totem_MaxHealth_2,1,1,False
+962,Totem_MaxHealth 3,图腾:生命 Ⅲ,Item_Totem_MaxHealth_3,1,1,False
+963,Totem_MaxHealth,图腾:生命 Ⅰ,Item_Totem_MaxHealth,1,1,False
+964,Totem_Ninja 3,图腾:忍者 Ⅲ,Item_Totem_Ninja_3,1,1,False
+965,Totem_PhysicResist 2,图腾:抗物 Ⅱ,Item_Totem_PhysicResist_2,1,1,False
+966,Totem_PhysicResist 3,图腾:抗物 Ⅲ,Item_Totem_PhysicResist_3,1,1,False
+967,Totem_PoisonResist 2,图腾:抗毒 Ⅱ,Item_Totem_PoisonResist_2,1,1,False
+968,Totem_PoisonResist 3,图腾:抗毒 Ⅲ,Item_Totem_PoisonResist_3,1,1,False
+969,Totem_PoisonResist,图腾:抗毒 Ⅰ,Item_Totem_PoisonResist,1,1,False
+970,Totem_SpaceResist 2,图腾:抗空间 Ⅱ,Item_Totem_SpaceResist_2,1,1,False
+971,Totem_SpaceResist 3,图腾:抗空间 Ⅲ,Item_Totem_SpaceResist_3,1,1,False
+972,Totem_SpaceResist,图腾:抗空间 Ⅰ,Item_Totem_SpaceResist,1,1,False
+973,FaceMask_Fly_Eye,蝇蝇眼镜,Item_FaceMask_Fly_Eye,1,1,False
+974,Totem_Efficiency 3,图腾:效率 Ⅲ,Item_Totem_Efficiency_3,1,1,False
+975,Totem_Efficiency,图腾:效率 Ⅰ,Item_Totem_Efficiency,1,1,False
+976,Totem_GunControl 2,图腾:控枪 Ⅱ,Item_Totem_GunControl_2,1,1,False
+977,Totem_GunControl 3_N,图腾:控枪 Ⅲ,Item_Totem_GunControl_3,1,1,False
+978,Totem_GunControl,图腾:控枪 Ⅰ,Item_Totem_GunControl,1,1,False
+979,Totem_GunCritDamage 2,图腾:爆头 Ⅱ,Item_Totem_GunCritDamage_2,1,1,False
+980,Totem_GunCritDamage 3,图腾:爆头 Ⅲ,Item_Totem_GunCritDamage_3,1,1,False
+981,Totem_GunCritDamage,图腾:爆头 Ⅰ,Item_Totem_GunCritDamage,1,1,False
+982,Totem_GunDistance 2,图腾:狙击 Ⅱ,Item_Totem_GunDistance_2,1,1,False
+983,Totem_GunDistance 3,图腾:狙击 Ⅲ,Item_Totem_GunDistance_3,1,1,False
+984,Totem_GunDistance,图腾:狙击 Ⅰ,Item_Totem_GunDistance,1,1,False
+985,Totem_MeleeAttack 3,图腾:战士 Ⅲ,Item_Totem_MeleeAttack_3,1,1,False
+986,Totem_MeleeCritRate 2,图腾:狂战 Ⅱ,Item_Totem_MeleeCritRate_2,1,1,False
+987,Totem_MeleeCritRate 3,图腾:狂战 Ⅲ,Item_Totem_MeleeCritRate_3,1,1,False
+988,Totem_MeleeCritRate,图腾:狂战 Ⅰ,Item_Totem_MeleeCritRate,1,1,False
+989,Totem_SenseRange 2,图腾:感知 Ⅱ,Item_Totem_SenseRange_2,1,1,False
+990,Totem_SenseRange 3,图腾:感知 Ⅲ,Item_Totem_SenseRange_3,1,1,False
+991,Totem_SenseRange,图腾:感知 Ⅰ,Item_Totem_SenseRange,1,1,False
+992,Totem_Speed 3,图腾:轻盈Ⅲ,Item_Totem_Speed_3,1,1,False
+993,Totem_Speed,图腾:轻盈 Ⅰ,Item_Totem_Speed,1,1,False
+994,Totem_Strong 2,图腾:健壮 Ⅱ,Item_Totem_Strong_2,1,1,False
+995,Totem_Strong,图腾:健壮 Ⅰ,Item_Totem_Strong,1,1,False
+996,Aritichoke,洋蓟,Item_Aritichoke,3,1,True
+997,Aubergine,茄子,Item_Aubergine,3,1,True
+998,Banana,香蕉,Item_Banana,3,1,True
+999,Cauliflower,花椰菜,Item_Cauliflower,3,1,True
+1000,Cherry,樱桃,Item_Cherry,3,1,True
+1001,Chilli,辣椒,Item_Chilli,3,1,True
+1002,Coconut,椰子,Item_Coconut,3,1,True
+1003,Corn,玉米,Item_Corn,3,1,True
+1004,Cucumber,黄瓜,Item_Cucumber,3,1,True
+1005,Garlic,大蒜,Item_Garlic,3,1,True
+1006,Grape,葡萄,Item_Grape,3,1,True
+1007,Leek,韭葱,Item_Leek,3,1,True
+1008,Lemon,柠檬,Item_Lemon,3,1,True
+1009,Mango,芒果,Item_Mango,3,1,True
+1010,Onion,洋葱,Item_Onion,3,1,True
+1011,Orange,橘子,Item_Orange,3,1,True
+1012,Pear,梨,Item_Pear,3,1,True
+1013,Pineapple,菠萝,Item_Pineapple,3,1,True
+1015,Starfruit,杨桃,Item_Starfruit,3,1,True
+1016,Strawberry,草莓,Item_Strawberry,3,1,True
+1017,Tomato,西红柿,Item_Tomato,3,1,True
+1018,Watermelon,西瓜,Item_Watermelon,3,1,True
+1019,Seed_Apple,苹果的种子,Item_Seed_Apple,5,1,True
+1020,Seed_Aritichoke,洋蓟的种子,Item_Seed_Aritichoke,5,1,True
+1021,Seed_Aubergine,茄子的种子,Item_Seed_Aubergine,5,1,True
+1022,Seed_Banana,香蕉的种子,Item_Seed_Banana,5,1,True
+1023,Seed_Carrot,胡萝卜的种子,Item_Seed_Carrot,5,1,True
+1024,Seed_Cauliflower,花椰菜的种子,Item_Seed_Cauliflower,5,1,True
+1025,Seed_Cherry,樱桃的种子,Item_Seed_Cherry,5,1,True
+1026,Seed_Chilli,辣椒的种子,Item_Seed_Chilli,5,1,True
+1027,Seed_Coconut,椰子的种子,Item_Seed_Coconut,5,1,True
+1028,Seed_Corn,玉米的种子,Item_Seed_Corn,5,1,True
+1029,Seed_Cucumber,黄瓜的种子,Item_Seed_Cucumber,5,1,True
+1030,Seed_Garlic,大蒜的种子,Item_Seed_Garlic,5,1,True
+1031,Seed_Grape,葡萄的种子,Item_Seed_Grape,5,1,True
+1032,Seed_Leek,韭葱的种子,Item_Seed_Leek,5,1,True
+1033,Seed_Lemon,柠檬的种子,Item_Seed_Lemon,5,1,True
+1034,Seed_Mango,芒果的种子,Item_Seed_Mango,5,1,True
+1035,Seed_Onion,洋葱的种子,Item_Seed_Onion,5,1,True
+1036,Seed_Orange,橙子的种子,Item_Seed_Orange,5,1,True
+1037,Seed_Pear,梨的种子,Item_Seed_Pear,5,1,True
+1038,Seed_Pineapple,菠萝的种子,Item_Seed_Pineapple,5,1,True
+1039,Seed_Potato,土豆的种子,Item_Seed_Potato,5,1,True
+1040,Seed_Pumpkin,南瓜的种子,Item_Seed_Pumpkin,5,1,True
+1041,Seed_Starfruit,杨桃的种子,Item_Seed_Starfruit,5,1,True
+1042,Seed_Strawberry,草莓的种子,Item_Seed_Strawberry,5,1,True
+1043,Seed_Tomato,西红柿的种子,Item_Seed_Tomato,5,1,True
+1044,Seed_Watermelon,西瓜的种子,Item_Seed_Watermelon,5,1,True
+1045,Key_GroundZero_NavigationBoss,保险箱钥匙,Item_Key_GroundZero_NavigationBoss,1,1,False
+1046,Quest_DefenceShield,防御力场发生器,Item_Quest_DefenceShield,1,1,False
+1047,Quest_DeliverBox_DestoryOnBase_881,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1048,Quest_DeliverBox_DestoryOnBase_882,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1049,Quest_DeliverBox_DestoryOnBase_883,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1050,Quest_DeliverBox_DestoryOnBase_884,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1051,Quest_DeliverBox_DestoryOnBase_885,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1052,Quest_DeliverBox_DestoryOnBase_886,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1053,Quest_DeliverBox_DestoryOnBase_885_2,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1054,Quest_DeliverBox_DestoryOnBase_887,快递,Item_Quest_DeliverBox_DestoryOnBase,1,1,False
+1055,AR_AK47_Quest,特制AK47,Item_AR_AK47_Quest,1,1,False
+1056,AR_AUGA3_Quest,特制StG 77A3,Item_AR_AUGA3_Quest,1,1,False
+1057,BR_M14_Quest,特制M14,Item_BR_M14_Quest,1,1,False
+1058,PST_Glick_Quest,特制格力克,Item_PST_Glick_Quest,1,1,False
+1059,SHT_MP155_Quest,特制MP-155,Item_SHT_MP155_Quest,1,1,False
+1060,SMG_SR3M_Quest,特制SR-3M,Item_SMG_SR3M_Quest,1,1,False
+1061,Sniper_Mosin_Quest,特制Mosin-Nagant,Item_Sniper_Mosin_Quest,1,1,False
+1062,Quest_Letter_StudentList,毕业生名单,Item_Quest_Letter_StudentList,1,1,False
+1063,Key_Farm_HeadMasterRoom,校长室钥匙,Item_Key_Farm_HeadMasterRoom,1,1,False
+1064,Quest_NBDetergent,特种洁厕灵,Item_Quest_NBDetergent,1,1,False
+1065,Quest_Farm_SpecialDrugs_1,腿疼特效药,Item_Quest_Farm_SpecialDrugs,1,1,False
+1066,Quest_Farm_SpecialDrugs_2,手疼特效药,Item_Quest_Farm_SpecialDrugs_2,1,1,False
+1067,Quest_Farm_SpecialDrugs_3,头疼特效药,Item_Quest_Farm_SpecialDrugsQuest_Farm_3,1,1,False
+1068,Quest_Farm_SpecialDrugs_4,特效止疼药,Item_Quest_Farm_SpecialDrugs_4,1,1,False
+1069,Quest_Farm_SpecialDrugs_5,强效蛋白粉,Item_Quest_Farm_SpecialDrugs_5,1,1,False
+1070,Injection_FireResist,火抗性针,Item_Injection_FireResist,3,1,True
+1071,Injection_PoisonResist,毒抗性针,Item_Injection_PoisonResist,3,1,True
+1072,Injection_SpaceResist,空间抗性针,Item_Injection_SpaceResist,3,1,True
+1073,Quest_HeavyWheel,沉重的轮胎,Item_HeavyWheel,1,1,False
+1074,Bat,棒球棍,Item_bat,1,1,False
+1075,NailBat,带钉棒球棍,Item_NailBat,1,1,False
+1076,BP_Bullet_Poop_Normal,蓝图：屎弹,Item_BP_Bullet_Poop_Normal,1,1,False
+1077,Armor_FireLandProtect,石棉工作服,Item_Armor_FireLandProtect,1,1,False
+1078,Helmat_FireLandProtect,石棉工作头盔,Item_Helmat_FireLandProtect,1,1,False
+1079,Armor_ElecLandProtect,橡胶工作服,Item_Armor_ElecLandProtect,1,1,False
+1080,Backpack_SBossElec_ResSpace,比利背包,Item_Backpack_SBossElec_ResSpace,1,1,False
+1081,Backpack_SBossFire_ResElec,啪啦背包,Item_Backpack_SBossFire_ResElec,1,1,False
+1082,Backpack_SBossPoison_LowDurResFire,咕噜背包,Item_Backpack_SBossPoison_LowDurResFire,1,1,False
+1083,Helmat_Egg,碎蛋壳,Item_Helmat_Egg,1,1,False
+1084,Key_Apartment102,员工公寓102钥匙,Item_Key_Apartment102,1,1,False
+1085,Key_Apartment105,员工公寓105钥匙,Item_Key_Apartment105,1,1,False
+1086,Key_Apartment101,员工公寓101钥匙,Item_Key_Apartment101,1,1,False
+1087,Key_Dormitory101,宿舍楼101钥匙,Item_Key_Dormitory101,1,1,False
+1088,FutureConsoleController,未来控制器,Item_FutureConsoleController,1,1,False
+1089,SHT_TOZ66_Fire,TOZ-66龙息,Item_SHT_TOZ66_Fire,1,1,False
+1090,GPUSLI,显示卡SLI,Item_GPUSLI,1,1,False
+1091,BP_GPUSLI,显示卡SLI,Item_BP_GPUSLI,1,1,False
+1092,Quest_916_ElectricParts_Ming,一堆电子零件,Item_Quest_916_ElectricParts_Ming,1,1,False
+1093,Armor_FC,高手护甲,Item_Armor_FC,1,1,False
+1094,BP_ColorMonitor,蓝图：彩色显示器,Item_BP_ColorMonitor,1,1,False
+1095,FishingRod_LV2,好钓竿,Item_FishingRod_LV2,1,1,False
+1096,FishingRod_LV3,厉害钓竿,Item_FishingRod_LV3,1,1,False
+1097,Fish_Black_Snapper,绿鲷鱼,Item_Fish_Black_Snapper,3,1,True
+1098,Fish_Blue_Damselfish,蓝雀鲷鱼,Item_Fish_Blue_Damselfish,3,1,True
+1099,Fish_Blue_Jack_Mackerel,青南乳鱼,Item_Fish_Blue_Jack_Mackerel,3,1,True
+1100,Fish_Blue_Mackerel,蓝鲭鱼,Item_Fish_Blue_Mackerel,3,1,True
+1101,Fish_Blue_Marlin,蓝枪鱼,Item_Fish_Blue_Marlin,3,1,True
+1102,Fish_Blue_Sailfish,蓝旗鱼,Item_Fish_Blue_Sailfish,3,1,True
+1103,Fish_Blue_Tang,蓝吊鱼,Item_Fish_Blue_Tang,3,1,True
+1104,Fish_Brown_and_White_Grunt,棕白石鲈,Item_Fish_Brown_and_White_Grunt,3,1,True
+1105,Fish_Brown_Mullet,棕梭鱼,Item_Fish_Brown_Mullet,3,1,True
+1106,Fish_Brown_Sardine,棕沙丁鱼,Item_Fish_Brown_Sardine,3,1,True
+1107,Fish_Golden_Fish,黄金鱼,Item_Fish_Golden_Fish,3,1,True
+1108,Fish_Green_Cod,绿胖头鱼,Item_Fish_Green_Cod,3,1,True
+1109,Fish_Green_Triggerfish,绿背鳙鱼,Item_Fish_Green_Triggerfish,3,1,True
+1110,Fish_Green_Yellow_Porcupinefish,绿黄鲀,Item_Fish_Green_Yellow_Porcupinefish,3,1,True
+1111,Fish_Grey_Catshark,蓝猫鲨鱼,Item_Fish_Grey_Catshark,3,1,True
+1112,Fish_Orange_Greenfin_Fish,橙青鳍鱼,Item_Fish_Orange_Greenfin_Fish,3,1,True
+1113,Fish_Orange_Squirrelfish,橙金鳞鱼,Item_Fish_Orange_Squirrelfish,3,1,True
+1114,Fish_Pink_Clownfish,粉金鱼,Item_Fish_Pink_Clownfish,3,1,True
+1115,Fish_Purple_Damselfish,紫雀鲷鱼,Item_Fish_Purple_Damselfish,3,1,True
+1116,Fish_Redfin_Flamefish,粉鳍火焰鱼,Item_Fish_Redfin_Flamefish,3,1,True
+1117,Fish_Redfin_Snapper,红鳍鲷鱼,Item_Fish_Redfin_Snapper,3,1,True
+1118,Fish_Red_Banded_Fish,红九间鱼,Item_Fish_Red_Banded_Fish,3,1,True
+1119,Fish_Red_Goldfish,红金鱼,Item_Fish_Red_Goldfish,3,1,True
+1120,Fish_Red_Grouper,大眼红鱼,Item_Fish_Red_Grouper,3,1,True
+1121,Fish_Red_Spotted_Grouper,红斑鱼,Item_Fish_Red_Spotted_Grouper,3,1,True
+1122,Fish_White_Angelfish,白燕鱼,Item_Fish_White_Angelfish,3,1,True
+1123,Fish_White_Cod,大头金鱼,Item_Fish_White_Cod,3,1,True
+1124,Fish_White_Perch,白扁鱼,Item_Fish_White_Perch,3,1,True
+1125,Fish_Yellow_Green_Snapper,黄绿鲷,Item_Fish_Yellow_Green_Snapper,3,1,True
+1126,Fish_Yellow_Porcupinefish,绿刺豚,Item_Fish_Yellow_Porcupinefish,3,1,True
+1127,BP_SHT_TOZ66_Fire,蓝图：TOZ-66龙息,Item_BP_SHT_TOZ66_Fire,1,1,False
+1128,PST_Glick_Space,空间格力克,Item_PST_Glick_Space,1,1,False
+1130,Backpack_FC,高手背包,Item_Backpack_FC,1,1,False
+1131,ArtichokeFloret,洋蓟瓣,Item_ArtichokeFloret,3,1,True
+1132,CornKernel,玉米粒,Item_CornKernel,3,1,True
+1133,DicedMango,芒果丁,Item_DicedMango,3,1,True
+1134,Earthworm,蚯蚓,Item_Earthworm,5,1,True
+1135,GrapeGrain,葡萄粒,Item_GrapeGrain,3,1,True
+1136,Helmat_PeakedCap,鸭舌帽,Item_Helmat_PeakedCap,1,1,False
+1137,ArmorLV5_3,五级重型防弹衣,Item_ArmorLV5_3,1,1,False
+1138,ArmorLV4_3,四级重型防弹衣,Item_ArmorLV4_3,1,1,False
+1139,ArmorLV3_2,三级重型防弹衣,Item_ArmorLV3_2,1,1,False
+1140,ArmorLV4_2,四级作战防弹衣,Item_ArmorLV4_2,1,1,False
+1141,ArmorLV5_2,五级作战防弹衣,Item_ArmorLV5_2,1,1,False
+1142,ArmorLV3_3,三级作战防弹衣,Item_ArmorLV3_3,1,1,False
+1143,HelmatLV1_2,坦克头盔,Item_HelmatLV1_2,1,1,False
+1144,HelmatLV2_2,二级轻型头盔,Item_HelmatLV2_2,1,1,False
+1145,HelmatLV3_2,三级轻型头盔,Item_HelmatLV3_2,1,1,False
+1146,HelmatLV3_UN,维和头盔,Item_HelmatLV3_UN,1,1,False
+1147,HelmatLV4_2,四级防弹头盔,Item_HelmatLV4_2,1,1,False
+1148,HelmatLV5_1Hear,五级轻型头盔,Item_HelmatLV5_1Hear,1,1,False
+1149,HelmatLV5_2,五级作战头盔,Item_HelmatLV5_2,1,1,False
+1150,Key_HiddenWarehouse_Cellar_Fork,地窖岔路钥匙,Item_Key_HiddenWarehouse_Cellar_Fork,1,1,False
+1151,Key_Defense_System,防空系统密钥,Item_Key_Defense_System,1,1,False
+1152,Grenade_SpaceBoss,\?\?\?,Item_Grenade_SpaceBoss,1,1,False
+1153,Grenade_SpaceBoss_2,\?\?\?,Item_Grenade_SpaceBoss,1,1,False
+1154,FishingBait,鱼饵,Item_FishingBait,5,1,True
+1155,BP_ElecGrenade,蓝图：电击手雷,Item_BP_ElecGrenade,1,1,False
+1156,BP_FireGrenade,蓝图：燃烧弹,Item_BP_FireGrenade,1,1,False
+1157,BP_ToxGrenade,蓝图：毒雾弹,Item_BP_ToxGrenade,1,1,False
+1158,Aquarium,水族箱,Item_Aquarium,1,1,False
+1159,BP_BR_Storm_Space,蓝图：风暴枪,Item_BP_BR_Storm_Space,1,1,False
+1160,Formula_FishingBait,配方：鱼饵,Item_Formula_FishingBait,1,1,False
+1161,BP_Bullet_PWL_L,蓝图：大型能量弹,Item_BP_Bullet_PWL_L,1,1,False
+1162,Bullet_PWS_H,强化小能量弹,Item_Bullet_PWS_H,320,30,True
+1163,ArmorLV1StormProtection,风暴工作服,Item_ArmorLV1StormProtection,1,1,False
+1164,Quest_Blueprint_ShipSpace,神秘飞船图纸,Item_Quest_Blueprint_ShipSpace,1,1,False
+1165,BlueCube,蓝色方块,Item_BlueCube,9999,1,True
+1166,Backpack_Cubbe,方块收集装置,Item_Backpack_Cubbe,1,1,False
+1167,BP_FishingRod_LV2,蓝图：好钓竿,Item_BP_FishingRod_LV2,1,1,False
+1168,BP_FishingRod_LV3,蓝图：厉害钓竿,Item_BP_FishingRod_LV3,1,1,False
+1169,Key_JLab_MiniGameCartriage,J-Lab放映室钥匙,Item_Key_JLab_MiniGameCartriage,1,1,False
+1170,fiber_Lv2,高级有机纤维,Item_fiber_Lv2,30,1,True
+1171,fiber_Lv3,顶级有机纤维,Item_fiber_Lv3,30,1,True
+1172,Knife_01_Blade,小直刀,Item_Knife_01_Blade,1,1,False
+1173,Knife_02_Short,木柄短刀,Item_Knife_02_Short,1,1,False
+1174,Knife_03_Knuckle,指虎刀,Item_Knife_03_Knuckle,1,1,False
+1175,Knife_04_Karambit,爪刀,Item_Knife_04_Karambit,1,1,False
+1176,Knife_06_Gurkhakukri,廓尔喀弯刀,Item_Knife_06_Gurkhakukri,1,1,False
+1177,Knife_07_Bayonet,战术刺刀,Item_Knife_07_Bayonet,1,1,False
+1178,KnifeBox,战术刀具箱,Item_KnifeBox,1,1,False
+1179,Formula_KnifeBox,配方：战术刀具箱,Item_Formula_KnifeBox,1,1,False
+1180,CandyCan,自制糖果,Item_CandyCan,1,1,False
+1181,Candy,棒棒糖,Item_Candy,3,1,True
+1182,PeaceStar,和平星,Item_PeaceStar,1,1,False
+1183,FakePeaceStar,和平星,Item_FakePeaceStar,1,1,False
+1184,GunPowderLv5,高级火药,Item_GunPowderLv5,300,30,True
+1185,BP_Bullet_AR_Piercing6,蓝图：AR-特种穿甲弹,Item_BP_Bullet_AR_Piercing6,1,1,False
+1186,BP_Bullet_BR_Piercing6,蓝图：L-特种穿甲弹,Item_BP_Bullet_BR_Piercing6,1,1,False
+1187,BP_Bullet_MAG_Piercing6,蓝图：MAG-特种穿甲弹,Item_BP_Bullet_MAG_Piercing6,1,1,False
+1188,BP_Bullet_SHT_Break,蓝图：特种霰弹,Item_BP_Bullet_SHT_Break,1,1,False
+1189,BP_Bullet_SMG_Break,蓝图：S-特种弹,Item_BP_Bullet_SMG_Break,1,1,False
+1190,BP_Bullet_SNP_Piercing6,特种穿甲狙击弹,Item_BP_Bullet_SNP_Piercing6,1,1,False
+1191,Key_Farm_NorthFactoryRoom,北厂区小屋钥匙,Item_Key_Farm_NorthFactoryRoom,1,1,False
+1192,GunPowder_Blue,罐装火药,Item_GunPowder_Blue,10,1,True
+1193,GunPowder_Green,罐装火药,Item_GunPowder_Green,10,1,True
+1194,GunPowder_Red,罐装火药,Item_GunPowder_Red,10,1,True
+1195,BP_Bullet_SNP_Piercing2,蓝图：穿甲狙击弹,Item_BP_Bullet_SNP_Piercing2,1,1,False
+1196,BP_Bullet_AR_Piercing3,蓝图：AR-穿甲弹,Item_BP_Bullet_AR_Piercing3,1,1,False
+1197,BP_Bullet_AR_Piercing5,蓝图：AR-高级穿甲弹,Item_BP_Bullet_AR_Piercing5,1,1,False
+1198,BP_Bullet_BR_Piercing3,蓝图：L-穿甲弹,Item_BP_Bullet_BR_Piercing3,1,1,False
+1199,BP_Bullet_BR_Piercing5,蓝图：L-高级穿甲弹,Item_BP_Bullet_BR_Piercing5,1,1,False
+1200,BP_Bullet_MAG_Piercing2,蓝图：MAG-穿甲弹,Item_BP_Bullet_MAG_Piercing2,1,1,False
+1201,BP_Bullet_MAG_Piercing4,蓝图：MAG-高级穿甲弹,Item_BP_Bullet_MAG_Piercing4,1,1,False
+1202,BP_Bullet_SHT_Piercing3,蓝图：穿甲霰弹,Item_BP_Bullet_SHT_Piercing3,1,1,False
+1203,BP_Bullet_SHT_Piercing5,蓝图：高级穿甲霰弹,Item_BP_Bullet_SHT_Piercing5,1,1,False
+1204,BP_Bullet_SMG_Piercing3,蓝图：S-穿甲弹,Item_BP_Bullet_SMG_Piercing3,1,1,False
+1205,BP_Bullet_SMG_Piercing5,蓝图：S-高级穿甲弹,Item_BP_Bullet_SMG_Piercing5,1,1,False
+1206,BP_Bullet_SNP_Piercing4,蓝图：高级穿甲狙击弹,Item_BP_Bullet_SNP_Piercing4,1,1,False
+1207,SaltedFish,战术咸鱼,Item_SaltedFish,1,1,False
+1208,ButcherKnife,猪肉刀,Item_ButcherKnife,1,1,False
+1209,SMG_ArcadeGun_Normal,玩具枪,Item_SMG_ArcadeGun_Normal,1,1,False
+1210,Formula_Cola,配方：可乐,Item_Formula_Cola,1,1,False
+1213,HelmatLV1StormProtection,风暴工作头盔,Item_HelmatLV1StormProtection,1,1,False
+1214,Quest_DefenceShield_Text,防御力场操作说明,Item_Quest_DefenceShield_Text,1,1,False
+1215,BP_ArmorLV5,蓝图：五级防弹衣,Item_BP_ArmorLV5,1,1,False
+1216,BP_ArmorLV5StormProtection,蓝图：空间防护服终极版,Item_BP_ArmorLV5StormProtection,1,1,False
+1217,BP_ArmorLV5_2,蓝图：五级作战防弹衣,Item_BP_ArmorLV5_2,1,1,False
+1218,BP_ArmorLV5_3,蓝图：五级重型防弹衣,Item_BP_ArmorLV5_3,1,1,False
+1219,BP_ArmorLV6,蓝图：六级防弹衣,Item_BP_ArmorLV6,1,1,False
+1220,BP_BackpackLV5,蓝图：行军背包MAX,Item_BP_BackpackLV5,1,1,False
+1221,BP_HelmatLV5,蓝图：SCIFI面罩,Item_BP_HelmatLV5,1,1,False
+1222,BP_HelmatLV5StormProtection,蓝图：空间防护头盔最终版,Item_BP_HelmatLV5StormProtection,1,1,False
+1223,BP_HelmatLV5_1Hear,蓝图：五级轻型头盔,Item_BP_HelmatLV5_1Hear,1,1,False
+1224,BP_HelmatLV5_2,蓝图：五级作战头盔,Item_BP_HelmatLV5_2,1,1,False
+1225,BP_HelmatLV6,蓝图：神之电焊头,Item_BP_HelmatLV6,1,1,False
+1226,Key_Farm_Nursing_Computer,疗养院机房钥匙,Item_Key_Farm_Nursing_Computer,1,1,False
+1227,Key_Farm_Nursing_Restaurant,疗养院餐厅钥匙,Item_Key_Farm_Nursing_Restaurant,1,1,False
+1228,Key_Farm_Nursing_Room_1,疗养院房间钥匙-1,Item_Key_Farm_Nursing_Room_1,1,1,False
+1229,Key_Farm_Nursing_Room_2,疗养院房间钥匙-2,Item_Key_Farm_Nursing_Room_2,1,1,False
+1230,Accelerator,加速器,Item_Accelerator,1,1,False
+1231,ConcentratedSlurry,浓缩浆质,Item_ConcentratedSlurry,1,1,False
+1232,CrystalBattery,晶体电池,Item_CrystalBattery,1,1,False
+1233,CrystalFiltrationUnit,晶体过滤单元,Item_CrystalFiltrationUnit,1,1,False
+1234,CrystalBooster,晶体增压器,Item_CrystalBooster,1,1,False
+1235,BulkSpaceCrystal,大块空间晶体,Item_BulkSpaceCrystal,5,1,True
+1236,SpaceEye,风暴眼,Item_SpaceEye,10,1,True
+1237,Formula_ConcentratedSlurry,配方：浓缩浆质,Item_Formula_ConcentratedSlurry,1,1,False
+1238,AR_MF_Poison,MF-毒液,Item_AR_MF_Poison,1,1,False
+1239,EGun_Magic_Red,\?\?\?,Item_EGun_Magic_Red,1,1,False
+1240,BP_AR_MF_Poison,蓝图：MF-毒液,Item_BP_AR_MF_Poison,1,1,False
+1241,CarBattery,汽车电池,Item_CarBattery,1,1,False
+1242,RedEye,\?\?\?,Item_RedEye,1,1,False
+1243,Splint,骨夹板,Item_Splint,1,1,False
+1244,SplintAdvanced,高级骨夹板,Item_SplintAdv,1,1,False
+1245,SurgicalKit,手术包,Item_SurgicalKit,1,1,False
+1246,SurgicalKitL,增强手术包,Item_SurgicalKitL,1,1,False
+1247,Injection_BleedResist,止血针,Item_Injection_BleedResist,3,1,True
+1248,SmallAxe,斧子,Item_SmallAxe,1,1,False
+1249,Armor_Football_1,休闲套装,Item_Armor_Football_1,1,1,False
+1250,Armor_Football_2,运动背心,Item_Armor_Football_2,1,1,False
+1251,FackMask_Football_Glass,金丝眼镜,Item_FackMask_Football_Glass,1,1,False
+1252,HeadsetLV2,橘子耳机,Item_HeadsetLV2,1,1,False
+1253,GoldBadge,纯金徽章,Item_GoldBadge,1,1,False
+1254,Crown,皇冠,Item_Crown,1,1,False
+1255,ToteBag,手提袋,Item_ToteBag,1,1,False
+1256,MoonShine,灵魂私酒,Item_MoonShine,1,1,False
+1257,ShitBall,粪球,Item_ShitBall,5,1,True
+1258,EGun_AR_Storm_Virus,\?\?\?,Item_EGun_AR_Storm_Virus,1,1,False
+1259,Kazoo,卡祖笛,Item_Kazoo,1,1,False
+1260,SHT_Candy_Ghost,糖果枪,Item_SHT_Candy_Ghost,1,1,False
+1261,Helmat_PumpkinLight,南瓜灯,Item_Helmat_PumpkinLight,1,1,False
+1262,Bullet_Candy_Ghost,糖豆子弹,Item_Bullet_Candy_Ghost,150,30,True
+1263,PsychicSubstance,灵能物质,Item_PsychicSubstance,4,1,True
+1264,SHT_TOZ106_Ghost,灵能枪,Item_SHT_TOZ106_Ghost,1,1,False
+1265,BP_Bullet_Candy_Ghost,蓝图：糖豆子弹,Item_BP_Bullet_Candy_Ghost,1,1,False
+1266,ToyBell,玩具铃铛,Item_ToyBell,1,1,False
+1267,BP_SHT_Candy_Ghost,蓝图：糖果枪,Item_BP_SHT_Candy_Ghost,1,1,False
+1268,BP_SHT_TOZ106_Ghost,蓝图：灵能枪,Item_BP_SHT_TOZ106_Ghost,1,1,False
+1269,GhostBat,灵能棍,Item_GhostBat,1,1,False
+1270,Backpack_Pumpkin_Jack,杰克背包,Item_Backpack_Pumpkin_Jack,1,1,False
+1271,BP_Backpack_Pumpkin_Jack,蓝图：杰克背包,Item_BP_Backpack_Pumpkin_Jack,1,1,False
+1272,BP_Helmat_PumpkinLight,蓝图：南瓜灯,Item_BP_Helmat_PumpkinLight,1,1,False
+1273,Quest_Camera_Jeff,杰夫的照相机,Item_Quest_Camera_Jeff,1,1,False
+1274,CoinBlade,铜钱剑,Item_CoinBlade,1,1,False
+1275,BP_CoinBlade,蓝图：铜钱剑,Item_BP_CoinBlade,1,1,False
+1276,Helmat_WitchHat,巫师帽,Item_Helmat_WitchHat,1,1,False
+1277,Armor_WitchCloth,巫师服,Item_Armor_WitchCloth,1,1,False
+1278,Wand,烧火棍,Item_Wand,1,1,False
+1279,GhostBat_Player,灵能棍,Item_GhostBat,1,1,False
+1280,Totem_GhostResist,护身符,Item_Totem_GhostResist,1,1,False
+1281,AnimalWeapon_StormClimb,空手,Item_AnimalWeapon,1,1,False
+1282,GiantSwordFish,大剑鱼,Item_GiantSwordFish,1,1,False
+1283,DarkCarrot,黑萝卜,Item_DarkCarrot,3,1,True
+1284,Formula_DarkCarrot,配方：黑萝卜,Item_Formula_DarkCarrot,1,1,False
+1285,MoYuToy,阿鸭,Item_MoYuToy,1,1,False
+1286,AR_MK47_Normal,MK-47,Item_AR_MK47_Normal,1,1,False
+1287,AR_RPD_Normal,RPD,Item_AR_RPD_Normal,1,1,False
+1288,Helmat_Cone,雪糕筒,Item_Helmat_Cone,1,1,False
+1289,ARR_CrossBow_Normal,十字弩,Item_ARR_CrossBow_Normal,1,1,False
+1290,Special_Energy_CubeGun_1,方块枪智能模组,Item_Special_Energy_CubeGun_1,1,1,False
+1291,Special_AR_AUG_1,StG\ 77半自动模组,Item_Special_AR_AUG_1,1,1,False
+1292,Special_BR_SKS_1,SKS-45精确模组,Item_Special_BR_SKS_1,1,1,False
+1293,Special_PST_Glick_1,格力克三连发模组,Item_Special_PST_Glick_1,1,1,False
+1294,Special_SMG_ArcadeGun_1,玩具枪伤害模组,Item_Special_SMG_ArcadeGun_1,1,1,False
+1295,Special_SMG_PP19Bizon_1,Bizon-2霰弹化模组,Item_Special_SMG_PP19Bizon_1,1,1,False
+1296,Special_SNP_Mosin_1,Mosin-Nagant两脚架模组,Item_Special_SNP_Mosin_1,1,1,False
+1297,Special_BR_M14_1,M14全自动模组,Item_Special_BR_M14_1,1,1,False
+1298,ARR_AHBow_Ice,冰原反曲弓,Item_ARR_AHBow_Ice,1,1,False
+1299,ARR_AHBow_Normal,反曲弓,Item_ARR_AHBow_Normal,1,1,False
+1300,AR_RPD_Ice,RPD-凛冬,Item_AR_RPD_Ice,1,1,False
+1301,RKT_SnowGun_Ice,雪球枪,Item_RKT_SnowGun_Ice,1,1,False
+1302,SMG_SR3M_Ice,霜冻SR-3M,Item_SMG_SR3M_Ice,1,1,False
+1303,IceBlade,寒冰剑,Item_IceBlade,1,1,False
+1304,Bullet_Snow_Ice,雪球子弹,Item_Bullet_Snow_Ice,150,30,True
+1305,Special_SHT_Candy_1,糖果枪多发模组,Item_Special_SHT_Candy_1,1,1,False
+1306,Special_ARR_AHBow_1,反曲弓齐发模组,Item_Special_ARR_AHBow_1,1,1,False
+1307,ArmorLV1_Snow,棉袄,Item_ArmorLV1_Snow,1,1,False
+1308,ArmorLV2_Snow,二级雪地防弹衣,Item_ArmorLV2_Snow,1,1,False
+1309,ArmorLV3_Snow,三级雪地防弹衣,Item_ArmorLV3_Snow,1,1,False
+1310,ArmorLV4_Snow,四级雪地防弹衣,Item_ArmorLV4_Snow,1,1,False
+1311,ArmorLV4_SnowBoss,防冻装甲,Item_ArmorLV4_SnowBoss,1,1,False
+1312,HelmatLV1_Snow,毛帽,Item_HelmatLV1_Snow,1,1,False
+1313,HelmatLV2_Snow,二级雪地头盔,Item_HelmatLV2_Snow,1,1,False
+1314,HelmatLV3_Snow,三级雪地头盔,Item_HelmatLV3_Snow,1,1,False
+1315,HelmatLV4_Snow,四级雪地头盔,Item_HelmatLV4_Snow,1,1,False
+1316,HelmatLV4_SnowBoss,抗冻头盔,Item_HelmatLV4_SnowBoss,1,1,False
+1317,BP_ARR_AHBow_Ice,蓝图：冰原反曲弓,Item_BP_ARR_AHBow_Ice,1,1,False
+1318,BP_ARR_AHBow_Normal,蓝图：反曲弓,Item_BP_ARR_AHBow_Normal,1,1,False
+1319,BP_ARR_CrossBow_Normal,蓝图：十字弩,Item_BP_ARR_CrossBow_Normal,1,1,False
+1320,BP_AR_MK47_Normal,蓝图：MK-47,Item_BP_AR_MK47_Normal,1,1,False
+1321,BP_AR_RPD_Ice,蓝图：RPD-凛冬,Item_BP_AR_RPD_Ice,1,1,False
+1322,BP_AR_RPD_Normal,蓝图：RPD,Item_BP_AR_RPD_Normal,1,1,False
+1323,BP_IceBlade,蓝图：寒冰剑,Item_BP_IceBlade,1,1,False
+1324,BP_RKT_SnowGun_Ice,蓝图：雪球枪,Item_BP_RKT_SnowGun_Ice,1,1,False
+1325,BP_SMG_SR3M_Ice,蓝图：霜冻SR-3M,Item_BP_SMG_SR3M_Ice,1,1,False
+1326,BP_Bullet_Snow_Ice,蓝图：雪球子弹,Item_BP_Bullet_Snow_Ice,1,1,False
+1327,BP_ArmorLV1_Snow,蓝图：棉袄,Item_BP_ArmorLV1_Snow,1,1,False
+1328,BP_ArmorLV2_Snow,蓝图：二级雪地防弹衣,Item_BP_ArmorLV2_Snow,1,1,False
+1329,BP_ArmorLV3_Snow,蓝图：三级雪地防弹衣,Item_BP_ArmorLV3_Snow,1,1,False
+1330,BP_ArmorLV4_Snow,蓝图：四级雪地防弹衣,Item_BP_ArmorLV4_Snow,1,1,False
+1331,BP_ArmorLV4_SnowBoss,蓝图：防冻装甲,Item_BP_ArmorLV4_SnowBoss,1,1,False
+1332,BP_HelmatLV1_Snow,蓝图：毛帽,Item_BP_HelmatLV1_Snow,1,1,False
+1333,BP_HelmatLV2_Snow,蓝图：二级雪地头盔,Item_BP_HelmatLV2_Snow,1,1,False
+1334,BP_HelmatLV3_Snow,蓝图：三级雪地头盔,Item_BP_HelmatLV3_Snow,1,1,False
+1335,BP_HelmatLV4_Snow,蓝图：四级雪地头盔,Item_BP_HelmatLV4_Snow,1,1,False
+1336,BP_HelmatLV4_SnowBoss,蓝图：抗冻头盔,Item_BP_HelmatLV4_SnowBoss,1,1,False
+1337,BP_Special_ARR_AHBow_1,蓝图：反曲弓齐发模组,Item_BP_Special_ARR_AHBow_1,1,1,False
+1338,BP_Special_AR_AUG_1,蓝图：StG 77半自动模组,Item_BP_Special_AR_AUG_1,1,1,False
+1339,BP_Special_BR_M14_1,蓝图：M14全自动模组,Item_BP_Special_BR_M14_1,1,1,False
+1340,BP_Special_BR_SKS_1,蓝图：SKS-45精确模组,Item_BP_Special_BR_SKS_1,1,1,False
+1341,BP_Special_Energy_CubeGun_1,蓝图：方块枪智能模组,Item_BP_Special_Energy_CubeGun_1,1,1,False
+1342,BP_Special_PST_Glick_1,蓝图：格力克三连发模组,Item_BP_Special_PST_Glick_1,1,1,False
+1343,BP_Special_SHT_Candy_1,蓝图：糖果枪多发模组,Item_BP_Special_SHT_Candy_1,1,1,False
+1344,BP_Special_SMG_ArcadeGun_1,蓝图：玩具枪伤害模组,Item_BP_Special_SMG_ArcadeGun_1,1,1,False
+1345,BP_Special_SMG_PP19Bizon_1,蓝图：Bizon-2霰弹化模组,Item_BP_Special_SMG_PP19Bizon_1,1,1,False
+1346,BP_Special_SNP_Mosin_1,蓝图：Mosin-Nagant两脚架,Item_BP_Special_SNP_Mosin_1,1,1,False
+1347,Pelt,毛皮,Item_Pelt,30,1,True
+1348,Pelt_Lv2,高级毛皮,Item_Pelt_Lv2,30,1,True
+1349,Pelt_Lv3,顶级毛皮,Item_Pelt_Lv3,30,1,True
+1350,IceCrystal,冰霜结晶,Item_IceCrystal,10,1,True
+1351,SnowBall,雪球,Item_SnowBall,40,4,True
+1352,SnowLandTicket,零度挑战船票,Item_SnowLandTicket,1,1,False
+1353,SHT_SnowBoss_Ice,BSG-I,Item_SHT_SnowBoss_Ice,1,1,False
+1354,SHT_SnowBoss_Fire,BSG-F,Item_SHT_SnowBoss_Fire,1,1,False
+1355,AtomicClock,原子钟,Item_AtomicClock,1,1,False
+1356,Matryoshka_1,套娃,Item_Matryoshka,1,1,False
+1357,Matryoshka_2,套娃,Item_Matryoshka,1,1,False
+1358,Matryoshka_3,套娃,Item_Matryoshka,1,1,False
+1359,Matryoshka_4,套娃,Item_Matryoshka,1,1,False
+1360,Matryoshka_5,套娃,Item_Matryoshka,1,1,False
+1361,ArmorLV3StormProtection,三级风暴工作服,Item_ArmorLV3StormProtection,1,1,False
+1362,AR_MMG_Ice,MMG-冰锋,Item_AR_MMG_Ice,1,1,False
+1363,BP_Key_MysteryZ,蓝图：神秘钥匙Z,Item_BP_Key_MysteryZ,1,1,False
+1364,BP_AR_MMG_Ice,蓝图：MMG-冰锋,Item_BP_AR_MMG_Ice,1,1,False
+1365,Key_SnowChallenge_TEU,集装箱钥匙,Item_Key_SnowChallenge_TEU,1,1,False
+1366,IceGrenade,寒霜弹,Item_IceGrenade,8,1,True
+1367,ArmorLV3_Black,三级防弹衣,Item_ArmorLV3,1,1,False
+1368,HelmatLV2_Black,煤球头套,Item_HelmatLV2_Black,1,1,False
+1369,Special_AR_RPD_1,RPD射速模组,Item_Special_AR_RPD_1,1,1,False
+1370,BP_Special_AR_RPD_1,蓝图：RPD射速模组,Item_BP_Special_AR_RPD_1,1,1,False
+1371,FrostbiteOintment,冻伤膏,Item_FrostbiteOintment,1,1,False
+1372,Key_JLab_StormZone,实验室传送区钥匙,Item_Key_JLab_StormZone,1,1,False
+1373,Bullet_Rocket_H,火箭弹\ Lv2,Item_Bullet_Rocket_H,6,1,True
+1374,EGun_Turret_MG,机枪炮台,Item_EGun_Turret_MG,1,1,False
+1375,BaseDeco_Test,基地装饰：新年,Item_BaseDeco_Test,1,1,False
+1376,BaseWallPaper_Test,壁纸：温馨,Item_BaseWallPaper_Test,1,1,False
+1377,BaseDeco_Halloween,基地装饰：南瓜,Item_BaseDeco_Halloween,1,1,False
+1378,BaseWallPaper_White,壁纸：JLab,Item_BaseWallPaper_White,1,1,False
+1379,Helmat_Killa,Maska-1SCh\ KE,Item_Helmat_Killa,1,1,False
+1380,Helmat_Tagilla,"""UBEY""",Item_Helmat_Tagilla,1,1,False
+1381,ArmorLV5_Killa,6B13\ Killa,Item_ArmorLV5_Killa,1,1,False
+1382,ArmorLV5_Tagilla,AVS\ TE,Item_ArmorLV5_Tagilla,1,1,False
+1383,Hammer_Tagilla,Superfors\ DB\ 2020,Item_Hammer_Tagilla,1,1,False
+1384,Figurine_Killa,Killa模型,Item_Model_Killa,1,1,False
+1385,Figurine_Tagilla,Tagilla模型,Item_Model_Tagilla,1,1,False
+1386,SHT_AA12_Normal,AA-12,Item_SHT_AA12_Normal,1,1,False
+1387,Helmat_Tagilla_Basaka,"""ZABEY""",Item_Helmat_Tagilla_Basaka,1,1,False
+1388,BaseWallPaper_NewYear,壁纸：新年,Item_BaseWallPaper_NewYear,1,1,False
+1389,BaseWallPaper_Rock,壁纸：岩石,Item_BaseWallPaper_Rock,1,1,False
+1390,BaseWallPaper_Warehouse,壁纸：仓库,Item_BaseWallPaper_Warehouse,1,1,False
+1391,BaseDeco_Snow,基地装饰：雪,Item_BaseDeco_Snow,1,1,False
+1392,BoomCar,炸弹小车,Item_BoomCar,1,1,False
+1393,Shit_Gold,金粑粑,Item_Shit_Gold,1,1,False
+1394,Quest_633_FireWork,烟花,Item_Quest_633_FireWork,1,1,False
+1395,Hammer_Tagilla_Player,Superfors\ DB\ 2020,Item_Hammer_Tagilla,1,1,False
+1396,NM_NMGun_Elec,纳米枪,Item_NM_NMGun_Elec,1,1,False
+1397,Ticket_SnowMilitaryBase,实验区船票,Item_Ticket_SnowMilitaryBase,1,1,False
+1398,Special_NM_NMGun_1,生物纳米机器配件,Item_Special_NM_NMGun_1,1,1,False
+1399,Quest_Letter_EquipmentMercent 1,老朋友的信,Item_Quest_Letter_EquipmentMercent,1,1,False
+1400,Injection_Tagilla,Tagilla药剂,Item_Injection_Tagilla,3,1,True
+1401,Injection_Tagilla_Basaka,米诺陶药剂,Item_Injection_Tagilla_Basaka,3,1,True
+1402,HackerDevice,傻瓜入侵装置,Item_HackerDevice,1,1,False
+1403,Information_Maze,迷宫情报,Item_Information_Maze,1,1,False
+1404,PrinterHotend,打印机热端,Item_PrinterHotend,1,1,False
+1405,Quest_613_JlabEmployeeList,移动硬盘：J-lab员工档案,Item_Quest_613_JlabEmployeeList,1,1,False
+1406,Quest_616_ShippingList,运输清单,Item_Quest_616_ShippingList,1,1,False
+1407,Quest_641_VidaNote,跟踪笔记,Item_Quest_641_VidaNote,1,1,False
+1408,Quest_654_BluePaperBox,蓝色纸箱,Item_Quest_654_BluePaperBox,1,1,False
+1409,Quest_654_InformationCodeT,移动硬盘：代号T,Item_Quest_654_InformationCodeT,1,1,False
+1410,Quest_656_TradingRecords,交易记录,Item_Quest_656_TradingRecords,1,1,False
+1411,Quest_657_BlueBall,蓝色圆球,Item_Quest_657_BlueBall,1,1,False
+1412,Quest_657_RedBall,红色圆球,Item_Quest_657_RedBall,1,1,False
+1413,Quest_671_FoPhoto,佛哥的照片,Item_Quest_671_FoPhoto,1,1,False
+1414,Key_Card_Maze,Labyrinth钥匙卡,Item_Key_Card_Maze,1,1,False
+1415,Key_SnowMilitary_SenorEngineer,工程师家门钥匙,Item_Key_SnowMilitary_SenorEngineer,1,1,False
+1416,Quest_618_MicroCamera,小型摄像头,Item_Quest_618_MicroCamera,4,4,True
+1417,Key_Farm_Nursing_Toilet,疗养院厕所钥匙,Item_Key_Farm_Nursing_Toilet,1,1,False
+1418,ArmorLV4_Fleeze,弗里护甲,ArmorLV4_Fleeze,1,1,False
+1419,ArmorLV4_Igny,伊格护甲,ArmorLV4_Igny,1,1,False
+1420,HelmatLV4_Fleeze,弗里头盔,HelmatLV4_Fleeze,1,1,False
+1421,HelmatLV4_Igny,伊格头盔,HelmatLV4_Igny,1,1,False
+1422,ShitStick,屎棍,Item_ShitStick,1,1,False
+1423,GoldDumbbell,黄金哑铃,Item_GoldDumbbell,1,1,False
+1424,CPU,中央处理器,Item_CPU,3,1,True
+1425,RAM,内存条,Item_RAM,3,1,True
+1426,SSD,M\.2固态硬盘,Item_SSD,3,1,True
+1427,GoldShit,金粑粑,Item_GoldShit,1,1,False
+1428,AED,除颤仪,Item_AED,1,1,False
+1429,Ophthalmoscope,检眼镜,Item_Ophthalmoscope,1,1,False
+1430,TankBattery,坦克电池,Item_TankBattery,1,1,False
+1431,SHT_Saiga12_Normal,Saiga-12K,Item_SHT_Saiga12_Normal,1,1,False
+1432,SHT_Saiga12_TagillaB,Saiga-12K\ Tagilla改,Item_SHT_Saiga12_TagillaB,1,1,False
+1433,SMG_AK74_Tagilla,AK-74U\ Tagilla改,Item_SMG_AK74_Tagilla,1,1,False
+1434,Bullet_NM_Normal,纳米子弹,Item_Bullet_NM_Normal,60,1,True
+1435,AnimalWeapon_Bear,空手,Item_AnimalWeapon,1,1,False
+1436,AnimalWeapon_WolfKing_Ice,空手,Item_AnimalWeapon,1,1,False
+1437,Hammer_Tagilla_B,系链双刃斧,Item_Hammer_Tagilla_B,1,1,False
+1438,Hammer_Tagilla_B_Player,系链双刃斧,Item_Hammer_Tagilla_B,1,1,False
+1439,3DMaterial,3D打印材料,Item_3DMaterial,30,1,True
+1440,Quest_618_Card_Maze_Empty,原型钥匙卡,Item_Quest_618_Card_Maze_Empty,1,1,False
+1441,LightSaber,伞柄军刀,Item_LightSaber,1,1,False
+1442,Armor_ColdProtect,抗寒工作服,Item_Armor_ColdProtect,1,1,False
+1443,Helmat_ColdProtect,抗寒工作头盔,Item_Helmat_ColdProtect,1,1,False
+1444,ArmorLV3ColdProtection,三级抗寒工作服,Item_ArmorLV3ColdProtection,1,1,False
+1445,Print_HelmatLV4_SnowBoss,设计图：抗冻头盔,Item_Print_HelmatLV4_SnowBoss,1,1,False
+1446,Print_ArmorLV4_SnowBoss,设计图：抗冻装甲,Item_Print_ArmorLV4_SnowBoss,1,1,False
+1447,Print_HelmatLV4_Snow,设计图：四级雪地头盔,Item_Print_HelmatLV4_Snow,1,1,False
+1448,Print_ArmorLV4_Snow,设计图：四级雪地防弹衣,Item_Print_ArmorLV4_Snow,1,1,False
+1449,Key_Maze_Interrogation,审讯室钥匙,Item_Key_Maze_Interrogation,1,1,False
+1450,Key_Maze_IronGate,铁门钥匙,Item_Key_Maze_IronGate,1,1,False
+1451,Key_Maze_RestRoom,迷宫休息间钥匙,Item_Key_Maze_RestRoom,1,1,False
+1452,Special_NM_NMGun_2,纳米枪机械控制模块,Item_Special_NM_NMGun_2,1,1,False
+1453,Print_Special_NM_NMGun_1,设计图：生物纳米机器配件,Item_Print_Special_NM_NMGun_1,1,1,False
+1454,RussianBeard,大胡子,Item_RussianBeard,1,1,False
+1455,Print_NM_NMGun_Elec,设计图：纳米枪,Item_Print_NM_NMGun_Elec,1,1,False
+1456,Print_Bullet_NM_Normal,设计图：纳米子弹,Item_Print_Bullet_NM_Normal,1,1,False
+1457,Print_ARR_AHBow_Ice,设计图：冰原反曲弓,Item_Print_ARR_AHBow_Ice,1,1,False
+1458,Print_ARR_AHBow_Normal,设计图：反曲弓,Item_Print_ARR_AHBow_Normal,1,1,False
+1459,Print_Bullet_ARR_Piercing2,蓝图：低级穿甲箭,Item_Print_Bullet_ARR_Piercing2,1,1,False
+1460,Print_Bullet_ARR_Piercing4,蓝图：中级穿甲箭,Item_Print_Bullet_ARR_Piercing4,1,1,False
+1461,Print_Special_ARR_AHBow_1,设计图：反曲弓齐发模组,Item_Print_Special_ARR_AHBow_1,1,1,False
+1462,EGun_SnowGun_Ice,\?\?\?,Item_EGun_SnowGun_Ice,1,1,False
+1463,Print_BoomCar,设计图：炸弹小车,Item_Print_BoomCar,1,1,False
+1464,Print_LightSaber,设计图：伞柄军刀,Item_Print_LightSaber,1,1,False
+1465,Print_RKT_SnowGun_Ice,设计图：雪球枪,Item_Print_RKT_SnowGun_Ice,1,1,False
+1466,Print_SHT_AA12_Normal,设计图：AA-12,Item_Print_SHT_AA12_Normal,1,1,False
+1467,Print_SHT_Saiga12_Normal,设计图：Saiga-12K,Item_Print_SHT_Saiga12_Normal,1,1,False
+1468,Print_SNP_TecSniper_Elec,设计图：TS-128智能型狙击枪,Item_Print_SNP_TecSniper_Elec,1,1,False
+1469,Print_Special_Melee_LightSaber_1,设计图：军刀刀反模组,Item_Print_Special_Melee_LightSaber_1,1,1,False
+1470,Print_Special_Poop_ShitGun_1,设计图：粑粑枪射程模组,Item_Print_Special_Poop_ShitGun_1,1,1,False
+1471,Print_Special_RKT_SnowGun_1,设计图：雪球枪强化模组,Item_Print_Special_RKT_SnowGun_1,1,1,False
+1472,Print_Special_SHT_SnowBoss_1,设计图：BSG集束模组,Item_Print_Special_SHT_SnowBoss_1,1,1,False
+1474,Print_Special_SNP_TecSniper_1,设计图：TS-128脑机模组,Item_Print_Special_SNP_TecSniper_1,1,1,False
+1475,Special_Melee_LightSaber_1,军刀刀反模组,Item_Special_Melee_LightSaber_1,1,1,False
+1476,Special_Poop_ShitGun_1,粑粑枪射程模组,Item_Special_Poop_ShitGun_1,1,1,False
+1477,Special_RKT_SnowGun_1,雪球枪强化模组,Item_Special_RKT_SnowGun_1,1,1,False
+1478,Special_SHT_SnowBoss_1,BSG集束模组,Item_Special_SHT_SnowBoss_1,1,1,False
+1479,Special_SNP_TecSniper_1,TS-128脑机模组,Item_Special_SNP_TecSniper_1,1,1,False
+1480,SNP_TecSniper_Elec,TS-128智能型狙击枪,Item_SNP_TecSniper_Elec,1,1,False
+1481,Key_SnowMilitary_Villa,别墅钥匙,Item_Key_SnowMilitary_Villa,1,1,False
+1482,Key_SnowMilitary_StudyRoom,2号空间实验室钥匙,Item_Key_SnowMilitary_StudyRoom,1,1,False
+1483,Key_SnowMilitary_SpaceResearch,空间实验室钥匙,Item_Key_SnowMilitary_SpaceResearch,1,1,False
+1484,Key_SnowMilitary_PresidentialSuite,总统套房钥匙,Item_Key_SnowMilitary_PresidentialSuite,1,1,False
+1485,Key_SnowMilitary_TankRoom,坦克房钥匙,Item_Key_SnowMilitary_TankRoom,1,1,False
+1486,Key_SnowMilitary_HunterRoom,猎人家门钥匙,Item_Key_SnowMilitary_HunterRoom,1,1,False
+1487,Special_SHT_Hand_1,土制猎枪死神模组,Item_Special_SHT_Hand_1,1,1,False
+1488,Special_SMG_UZI_1,UZI精确射击模组,Item_Special_SMG_UZI_1,1,1,False
+1489,Special_SNP_Balett_1,M107机动化模组,Item_Special_SNP_Balett_1,1,1,False
+1490,Print_Special_SHT_Hand_1,设计图：土制猎枪死神模组,Item_Print_Special_SHT_Hand_1,1,1,False
+1491,Print_Special_SMG_UZI_1,设计图：UZI精确射击模组,Item_Print_Special_SMG_UZI_1,1,1,False
+1492,Print_Special_SNP_Balett_1,设计图：M107机动化模组,Item_Print_Special_SNP_Balett_1,1,1,False
+1493,Totem_WarmStone,暖石,Item_Totem_WarmStone,1,1,False
+1494,BP_Totem_WarmStone,蓝图：暖石,Item_BP_Totem_WarmStone,1,1,False
+1495,Special_SNP_M700_1,M700特化模组,Item_Special_SNP_M700_1,1,1,False
+1496,Print_Special_SNP_M700_1,设计图：M700特化模组,Item_Print_Special_SNP_M700_1,1,1,False
+1497,MAG_ASh12_Normal,ASh-12,Item_MAG_ASh12_Normal,1,1,False
+1498,GreenBat,GreenBat锂电池,Item_GreenBat,1,1,False
+1499,Wireless_Ming,无线模块,Item_Wireless_Ming,10,1,True
+1500,Shell,OFZ\ 30х160毫米炮弹,Item_Shell,1,1,False
+1501,SnowBallWithStone,雪球（威力加强版）,Item_SnowBallWithStone,10,1,True
+1502,BP_MAG_ASh12_Normal,蓝图：ASh-12,Item_BP_MAG_ASh12_Normal,1,1,False
+1503,BP_SHT_AA12_Normal,蓝图：AA-12,Item_BP_SHT_AA12_Normal,1,1,False
+1504,BP_SHT_Saiga12_Normal,蓝图：Saiga-12,Item_BP_SHT_Saiga12_Normal,1,1,False
+1505,BP_IceGrenade,蓝图：寒霜弹,Item_BP_IceGrenade,1,1,False
+1506,Formula_SnowBallWithStone,配方：雪球（威力加强版）,Item_Formula_SnowBallWithStone,1,1,False
+1507,BlueEye,\?\?\?,Item_BlueEye,1,1,False
+1508,EGun_Magic_Blue,\?\?\?,Item_EGun_Magic_Blue,1,1,False
+1509,Key_SnowMilitary_SmallControlRoom,小控制室钥匙,Item_Key_SnowMilitary_SmallControlRoom,1,1,False
+1510,ElecStick,电棍,Item_ElecStick,1,1,False
+1511,Print_ElecStick,设计图：电棍,Item_Print_ElecStick,1,1,False
+1512,Bullet_Poop_Gold,金粑粑弹,Item_Bullet_Poop_Gold,200,30,True
+1513,BP_Bullet_Poop_Gold,蓝图：金粑粑弹,Item_BP_Bullet_Poop_Gold,1,1,False
+1514,Figurine_Horse,小马雕像,Item_Figurine_Horse,1,1,False
+1515,Quest_1000_CollectionProof,大收藏家的证明,Item_Quest_1000_CollectionProof,1,1,False
+1516,Figurine_Lion,狮子雕像,Item_Figurine_Lion,1,1,False
+1517,Helmat_HorseMask,小马头套,Item_Helmat_HorseMask,1,1,False
+1518,EGun_Magic_Ring_WhiteHorse,Item_EGun_Magic_Ring_WhiteHorse,Item_EGun_Magic_Ring_WhiteHorse,1,1,False
+1519,Helmat_LionDance,狮头帽,Item_Helmat_LionDance,1,1,False
+1520,Print_RKT_FireWork_Fire,设计图：烟花枪,Item_Print_RKT_FireWork_Fire,1,1,False
+1521,RKT_FireWork_Fire,烟花枪,Item_RKT_FireWork_Fire,1,1,False
+1522,Print_Helmat_LionDance,设计图：狮头帽,Item_Print_Helmat_LionDance,1,1,False
+1523,Bullet_FireWorks_Normal,烟花子弹,Item_Bullet_FireWorks_Normal,40,4,True
+1524,Print_Bullet_FireWorks_Normal,设计图：烟花子弹,Print_Bullet_FireWorks_Normal,1,1,False
+1525,Bullet_Plant_AR,Item_Bullet_Plant_AR,Item_Bullet_Plant_AR,1200,100,True
+1526,Plant_AR_Normal,Item_Plant_AR_Normal,Item_Plant_AR_Normal,1,1,False
+1527,Bullet_Plant_BR,Item_Bullet_Plant_BR,Item_Bullet_Plant_BR,800,75,True
+1528,Plant_BR_Normal,Item_Plant_BR_Normal,Item_Plant_BR_Normal,1,1,False
+1529,Plant_PST_Normal,Item_Plant_PST_Normal,Item_Plant_PST_Normal,1,1,False
+1530,Plant_SHT_Fire,Item_Plant_SHT_Fire,Item_Plant_SHT_Fire,1,1,False
+1531,Plant_SHT_Normal,Item_Plant_SHT_Normal,Item_Plant_SHT_Normal,1,1,False
+1532,Plant_SMG_Normal,Item_Plant_SMG_Normal,Item_Plant_SMG_Normal,1,1,False
+1533,EGun_AR_Zombie,Item_EGun_AR_Zombie,Item_EGun_AR_Zombie,1,1,False
+1534,AnimalWeapon_Zombie,空手,Item_AnimalWeapon,1,1,False
+1535,AnimalWeapon_Zombie_Big,空手,Item_AnimalWeapon,1,1,False
+1536,Cabbage,Item_Cabbage,Item_Cabbage,3,1,True
+1537,Hazelnut,Item_Hazelnut,Item_Hazelnut,3,1,True
+1538,Meat,Item_Meat,Item_Meat,3,1,True
+1539,Pea,Item_Pea,Item_Pea,3,1,True
+1540,Sunflower,Item_Sunflower,Item_Sunflower,3,1,True
+1541,Wheat,Item_Wheat,Item_Wheat,3,1,True
+1542,Seed_Cabbage,Item_Seed_Cabbage,Item_Seed_Cabbage,5,1,True
+1543,Seed_Hazelnut,Item_Seed_Hazelnut,Item_Seed_Hazelnut,5,1,True
+1544,Seed_Pea,Item_Seed_Pea,Item_Seed_Pea,5,1,True
+1545,Seed_Sunflower,Item_Seed_Sunflower,Item_Seed_Sunflower,5,1,True
+1546,Seed_Wheat,Item_Seed_Wheat,Item_Seed_Wheat,5,1,True
+1547,SNP_GunFire_Normal,Item_SNP_GunFire_Normal,Item_SNP_GunFire_Normal,1,1,False
+1548,SMG_GunFire_Normal,Item_SMG_GunFire_Normal,Item_SMG_GunFire_Normal,1,1,False
+1549,BP_SMG_GunFire_Normal,,,1,1,False
+1550,BP_SNP_GunFire_Normal,,,1,1,False
+1551,Quest_Box_GunFire_2002,,,1,1,False
+1552,Figurine_TaiZi,Item_Figurine_TaiZi,Item_Figurine_TaiZi,1,1,False
+1553,Bullet_EnemyEX_Piercing1,Item_Bullet_EnemyEX_Piercing1,Item_Bullet_EnemyEX_Piercing1,180,30,True
+1554,Bullet_EnemyEX_Piercing2,Item_Bullet_EnemyEX_Piercing2,Item_Bullet_EnemyEX_Piercing2,180,30,True
+1555,Bullet_EnemyEX_Piercing3,Item_Bullet_EnemyEX_Piercing3,Item_Bullet_EnemyEX_Piercing3,180,30,True
+1556,Bullet_EnemyEX_Piercing4,Item_Bullet_EnemyEX_Piercing4,Item_Bullet_EnemyEX_Piercing4,180,30,True
+1557,Bullet_EnemyEX_Piercing5,Item_Bullet_EnemyEX_Piercing5,Item_Bullet_EnemyEX_Piercing5,180,30,True
+1558,Bullet_EnemyEX_Piercing6,Item_Bullet_EnemyEX_Piercing6,Item_Bullet_EnemyEX_Piercing6,180,30,True
+1559,BarbedWire_NPC_Mud,\?\?\?,Item_BarbedWire_NPC_Mud,1,1,False
+1560,Armor_LifeRing,游泳圈,Item_Armor_LifeRing,1,1,False
+1561,PST_MingChao_Carletta,死与舞,Item_PST_MingChao_Carletta,1,1,False
+1562,PST_MingChao_Lynae,溢彩荧辉,Item_PST_MingChao_Lynae,1,1,False
+1563,SNP_MingChao_Carletta,Item_SNP_MingChao_Carletta,Item_SNP_MingChao_Carletta,1,1,False
+1564,Quest_DeliverBox_2102,特殊的箱子,Item_Quest_DeliverBox_2102,1,1,False
+1565,Quest_2103_PaintCan,颜料罐,Item_Quest_2103_PaintCan,1,1,False
+1566,Quest_2105_MoldableCrystal,可塑晶质,Item_Quest_2105_MoldableCrystal,1,1,False
+1567,BP_PST_MingChao_Carletta,蓝图：死与舞,Item_BP_PST_MingChao_Carletta,1,1,False
+1568,BP_PST_MingChao_Lynae,蓝图：溢彩荧辉,Item_BP_PST_MingChao_Lynae,1,1,False
+1569,BP_SNP_MingChao_Carletta,,,1,1,False
+1570,Cartridge_Island,海岛挑战,Item_Cartridge_Island,1,1,False
+1571,VehicleGun_Spider_Rifle,\?\?\?,Item_VehicleGun_Spider_Rifle,1,1,False
+1572,Cartridge_MouseDodger,D-Max,Item_Cartridge_MouseDodger,1,1,False
+1573,Key_Island_SafeBox,金钥匙,Item_Key_Island_SafeBox,1,1,False
+1574,Key_Card_Island_TrainingBase,小岛设施钥匙卡,Item_Key_Card_Island_TrainingBase,1,1,False
+1575,PP_WalkSpeed,强化：轻步,Item_PP_WalkSpeed,1,1,False
+1576,PP_ArmorSet,强化：铁壁,Item_PP_ArmorSet,1,1,False
+1577,PP_BallisticControl,强化：稳弹,Item_PP_BallisticControl,1,1,False
+1578,PP_BleedImmunity,强化：凝血,Item_PP_BleedImmunity,1,1,False
+1579,PP_BodyArmor,强化：皮甲,Item_PP_BodyArmor,1,1,False
+1580,PP_CarrySet,强化：远行,Item_PP_CarrySet,1,1,False
+1581,PP_ChargedHeadshot,强化：蓄狙,Item_PP_ChargedHeadshot,1,1,False
+1582,PP_DashSpeed,强化：翻滚,Item_PP_DashSpeed,1,1,False
+1583,PP_ElementPhysics,强化：抗冲,Item_PP_ElementPhysics,1,1,False
+1584,PP_ElementResist,强化：避险,Item_PP_ElementResist,1,1,False
+1585,PP_Endurance,强化：耐息,Item_PP_Endurance,1,1,False
+1586,PP_EnergyCost_WaterCost,强化：节流,Item_PP_EnergyCost_WaterCost,1,1,False
+1587,PP_FocusedHeadshot,强化：凝神,Item_PP_FocusedHeadshot,1,1,False
+1588,PP_FoodGain_HealGain,强化：滋养,Item_PP_FoodGain_HealGain,1,1,False
+1589,PP_GrowingArmor,强化：叠甲,Item_PP_GrowingArmor,1,1,False
+1590,PP_Guardian,强化：守护,Item_PP_Guardian,1,1,False
+1591,PP_GunCore,强化：火力,Item_PP_GunCore,1,1,False
+1592,PP_GunDamageMultiplier,强化：枪火,Item_PP_GunDamageMultiplier,1,1,False
+1593,PP_GunDamage_GunCrit,强化：爆头,Item_PP_GunDamage_GunCrit,1,1,False
+1594,PP_GunDistance_BulletSpeed,强化：弹道,Item_PP_GunDistance_BulletSpeed,1,1,False
+1595,PP_GunMaster,强化：神枪,Item_PP_GunMaster,1,1,False
+1596,PP_GunShoot_GunScatter,强化：速射,Item_PP_GunShoot_GunScatter,1,1,False
+1597,PP_HeadArmor,强化：头甲,Item_PP_HeadArmor,1,1,False
+1598,PP_HearingAbility,强化：聆听,Item_PP_HearingAbility,1,1,False
+1599,PP_InventoryCapacity,强化：行囊,Item_PP_InventoryCapacity,1,1,False
+1600,PP_Inventory_MaxWeight,强化：搬运,Item_PP_Inventory_MaxWeight,1,1,False
+1601,PP_MaxEnergy_MaxWater,强化：甘泉,Item_PP_MaxEnergy_MaxWater,1,1,False
+1602,PP_MaxHealth,强化：生息,Item_PP_MaxHealth,1,1,False
+1603,PP_MaxHealth_Stamina,强化：健体,Item_PP_MaxHealth_Stamina,1,1,False
+1604,PP_MaxWeight,强化：负重,Item_PP_MaxWeight,1,1,False
+1605,PP_MeleeCore,强化：武勇,Item_PP_MeleeCore,1,1,False
+1606,PP_MeleeCrit,强化：斩击,Item_PP_MeleeCrit,1,1,False
+1607,PP_MeleeDamageMultiplier,强化：斗志,Item_PP_MeleeDamageMultiplier,1,1,False
+1608,PP_Moveability,强化：身法,Item_PP_Moveability,1,1,False
+1609,PP_NightVisionScout,强化：夜巡,Item_PP_NightVisionScout,1,1,False
+1610,PP_PainImmunity,强化：镇痛,Item_PP_PainImmunity,1,1,False
+1611,PP_PetCapcity,强化：伙伴,Item_PP_PetCapcity,1,1,False
+1612,PP_PoisonImmunity,强化：避毒,Item_PP_PoisonImmunity,1,1,False
+1613,PP_QuietRecovery,强化：休养,Item_PP_QuietRecovery,1,1,False
+1614,PP_ReloadSpeed_RecoilControl,强化：稳装,Item_PP_ReloadSpeed_RecoilControl,1,1,False
+1615,PP_RunningFury,强化：奔袭,Item_PP_RunningFury,1,1,False
+1616,PP_RunSpeed,强化：疾跑,Item_PP_RunSpeed,1,1,False
+1617,PP_RunSpeed_RunAcc,强化：奔雷,Item_PP_RunSpeed_RunAcc,1,1,False
+1618,PP_SoundRange,强化：匿踪,Item_PP_SoundRange,1,1,False
+1619,PP_Stamina,强化：蓄力,Item_PP_Stamina,1,1,False
+1620,PP_StaminaCore,强化：活力,Item_PP_StaminaCore,1,1,False
+1621,PP_SustainedFire,强化：连射,Item_PP_SustainedFire,1,1,False
+1622,PP_ViewAngle_ViewDistance,强化：远视,Item_PP_ViewAngle_ViewDistance,1,1,False
+1623,PP_ViewSense,强化：感知,Item_PP_ViewSense,1,1,False
+1624,PP_WalkSpeed_WalkAcc,强化：行风,Item_PP_WalkSpeed_WalkAcc,1,1,False
+1625,PP_WoundTempering,强化：愈伤,Item_PP_WoundTempering,1,1,False
+1626,Key_Card_Island_Exit,通关钥匙卡,Item_Key_Card_Island_Exit,1,1,False
+1627,AR_QBZ191_Normal,QBZ-191,Item_AR_QBZ191_Normal,1,1,False
+1628,RKT_WaterGun_Ice,水球枪,Item_RKT_WaterGun_Ice,1,1,False
+1629,SMG_MPX_Normal,MPX,Item_SMG_MPX_Normal,1,1,False
+1630,WaterBall,水球,Item_WaterBall,100,10,True
+1631,Armor_Island_Blue,沙滩服（雪花）,Item_Armor_Island_Blue,1,1,False
+1632,Armor_Island_Coconut,沙滩服（椰子）,Item_Armor_Island_Coconut,1,1,False
+1633,Armor_Island_Pineapple,沙滩服（菠萝）,Item_Armor_Island_Pineapple,1,1,False
+1634,Helmat_Island_Banana,香蕉皮,Item_Helmat_Island_Banana,1,1,False
+1635,Helmat_Island_Headscarf,头巾,Item_Helmat_Island_Headscarf,1,1,False
+1636,Helmat_Island_Straw,草帽,Item_Helmat_Island_Straw,1,1,False
+1637,BP_AR_QBZ191_Normal,蓝图：QBZ-191,Item_BP_AR_QBZ191_Normal,1,1,False
+1638,BaseWallPaper_Island,壁纸：海岛,Item_BaseWallPaper_Island,1,1,False
+1639,BP_SMG_MPX_Normal,蓝图：MPX,Item_BP_SMG_MPX_Normal,1,1,False
+1640,Formula_WaterBall,配方：水球,Item_Formula_WaterBall,1,1,False
+1644,Quest_DeliverBox_2201,一箱资料,Item_Quest_DeliverBox_2201,1,1,False
+1645,Quest_DeliverBox_2202,纸箱子,Item_Quest_DeliverBox_2202,1,1,False
+1646,SeaShell,贝壳,Item_SeaShell,999,1,True
+1647,Key_Island_SpeedyRoom,山顶房屋钥匙,Item_Key_Island_SpeedyRoom,1,1,False
+1648,BP_RKT_WaterGun_Ice,蓝图：水球枪,Item_BP_RKT_WaterGun_Ice,1,1,False
+1649,IslandShop,便携式售货机,Item_IslandShop,1,1,False
+1650,FaceMask_MinionGoggles,护目镜,Item_FaceMask_MinionGoggles,1,1,False

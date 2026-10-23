@@ -1,0 +1,253 @@
+
+=== Content ===
+-- RectTransform (path_id=69392)
+   m_AnchorMax = Vector2f(0.5, 0.5)
+   m_AnchorMin = Vector2f(0.5, 0.5)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=21667, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(1150.0, 310.5299987792969)
+   m_AnchoredPosition = Vector2f(0.0, 0.0)
+   m_Children = [PPtr(m_FileID=0, m_PathID=75495, assetsfile=<SerializedFile>), PPtr(m_FileID=0, m_PathID=75404, assetsfile=<SerializedFile>), PPtr(m_FileID=0, m_PathID=65313, assetsfile=<SerializedFile>)]
+   m_Father = PPtr(m_FileID=0, m_PathID=71974, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(-0.0, -0.0, -0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- VerticalLayoutGroup (path_id=86175)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=21667, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=30517755904, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_Padding = <UnknownObject<RectOffset> m_Left=8, m_Right=8, m_Top=32, m_Bottom=32>
+   m_ChildAlignment = 4
+   m_Spacing = 0.0
+   m_ChildForceExpandWidth = 0
+   m_ChildForceExpandHeight = 0
+   m_ChildControlWidth = 1
+   m_ChildControlHeight = 1
+   m_ChildScaleWidth = 0
+   m_ChildScaleHeight = 0
+   m_ReverseArrangement = 0
+   object_reader = <ObjectReader MonoBehaviour>
+-- ContentSizeFitter (path_id=85889)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=21667, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=17582522368, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_HorizontalFit = 0
+   m_VerticalFit = 2
+   object_reader = <ObjectReader MonoBehaviour>
+
+=== BtnContainer ===
+-- RectTransform (path_id=65313)
+   m_AnchorMax = Vector2f(0.0, 1.0)
+   m_AnchorMin = Vector2f(0.0, 1.0)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=16153, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(734.0, 80.0)
+   m_AnchoredPosition = Vector2f(375.0, -262.5299987792969)
+   m_Children = [PPtr(m_FileID=0, m_PathID=67568, assetsfile=<SerializedFile>)]
+   m_Father = PPtr(m_FileID=0, m_PathID=69392, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(-0.0, -0.0, -0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- LayoutElement (path_id=105576)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=16153, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=17112760320, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_IgnoreLayout = 0
+   m_MinWidth = -1.0
+   m_MinHeight = -1.0
+   m_PreferredWidth = -1.0
+   m_PreferredHeight = 80.0
+   m_FlexibleWidth = 1.0
+   m_FlexibleHeight = -1.0
+   m_LayoutPriority = 1
+   object_reader = <ObjectReader MonoBehaviour>
+
+=== btn_ActivateQuest ===
+-- RectTransform (path_id=67568)
+   m_AnchorMax = Vector2f(1.0, 1.0)
+   m_AnchorMin = Vector2f(0.0, 0.0)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=17781, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(-400.0, 0.0)
+   m_AnchoredPosition = Vector2f(0.0, 0.0)
+   m_Children = [PPtr(m_FileID=0, m_PathID=66211, assetsfile=<SerializedFile>), PPtr(m_FileID=0, m_PathID=74068, assetsfile=<SerializedFile>), PPtr(m_FileID=0, m_PathID=74532, assetsfile=<SerializedFile>)]
+   m_Father = PPtr(m_FileID=0, m_PathID=65313, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(-0.0, -0.0, -0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- LayoutElement (path_id=95427)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=17781, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=17112760320, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_IgnoreLayout = 0
+   m_MinWidth = -1.0
+   m_MinHeight = -1.0
+   m_PreferredWidth = -1.0
+   m_PreferredHeight = 80.0
+   m_FlexibleWidth = 1.0
+   m_FlexibleHeight = -1.0
+   m_LayoutPriority = 1
+   object_reader = <ObjectReader MonoBehaviour>
+
+=== SliderContainer ===
+-- RectTransform (path_id=75404)
+   m_AnchorMax = Vector2f(0.0, 1.0)
+   m_AnchorMin = Vector2f(0.0, 1.0)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=19892, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(734.0, 162.39999389648438)
+   m_AnchoredPosition = Vector2f(375.0, -141.3300018310547)
+   m_Children = [PPtr(m_FileID=0, m_PathID=66643, assetsfile=<SerializedFile>), PPtr(m_FileID=0, m_PathID=68337, assetsfile=<SerializedFile>)]
+   m_Father = PPtr(m_FileID=0, m_PathID=69392, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(0.0, 0.0, 0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- LayoutElement (path_id=113414)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=19892, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=17112760320, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_IgnoreLayout = 0
+   m_MinWidth = -1.0
+   m_MinHeight = -1.0
+   m_PreferredWidth = -1.0
+   m_PreferredHeight = 162.39999389648438
+   m_FlexibleWidth = 1.0
+   m_FlexibleHeight = -1.0
+   m_LayoutPriority = 1
+   object_reader = <ObjectReader MonoBehaviour>
+
+=== Normal ===
+-- RectTransform (path_id=66211)
+   m_AnchorMax = Vector2f(1.0, 1.0)
+   m_AnchorMin = Vector2f(0.0, 0.0)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=18410, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(0.0, 0.0)
+   m_AnchoredPosition = Vector2f(0.0, 0.0)
+   m_Children = []
+   m_Father = PPtr(m_FileID=0, m_PathID=67568, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(-0.0, -0.0, -0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- TextMeshProUGUI (path_id=102603)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=18410, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=81621155840, assetsfile=<SerializedFile>)
+   m_Name = ''
+   m_Material = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_Color = <UnknownObject<Color> r=1.0, g=1.0, b=1.0, a=1.0>
+   m_RaycastTarget = 1
+   m_RaycastPadding = <UnknownObject<Vector4> x=0.0, y=0.0, z=0.0, w=0.0>
+   m_Maskable = 1
+   m_OnCullStateChanged = <UnknownObject<CullStateChangedEvent> m_PersistentCalls=<UnknownObject<PersistentCallGroup> m_Calls=[]>>
+   m_text = '·Ö¸î'
+   m_isRightToLeft = 0
+   m_fontAsset = PPtr(m_FileID=2, m_PathID=174, assetsfile=<SerializedFile>)
+   m_sharedMaterial = PPtr(m_FileID=2, m_PathID=2, assetsfile=<SerializedFile>)
+   m_fontSharedMaterials = []
+   m_fontMaterial = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_fontMaterials = []
+   m_fontColor32 = <UnknownObject<Color32> rgba=4281479730>
+   m_fontColor = <UnknownObject<Color> r=0.19607843458652496, g=0.19607843458652496, b=0.19607843458652496, a=1.0>
+   m_enableVertexGradient = 0
+   m_colorMode = 3
+   m_fontColorGradient = <UnknownObject<VertexGradient> topLeft=<UnknownObject<Color> r=1.0, g=1.0, b=1.0, a=1.0>, topRight=<UnknownObject<Color> r=1.0, g=1.0, b=1.0, a=1.0>, bottomLeft=<UnknownObject<Color> r=1.0, g=1.0, b=1.0, a=1.0>, bottomRight=<UnknownObject<Color> r=1.0, g=1.0, b=1.0, a=1.0>>
+   m_fontColorGradientPreset = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_spriteAsset = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_tintAllSprites = 0
+   m_StyleSheet = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_TextStyleHashCode = -1183493901
+   m_overrideHtmlColors = 0
+   m_faceColor = <UnknownObject<Color32> rgba=4294967295>
+   m_fontSize = 24.0
+   m_fontSizeBase = 24.0
+   m_fontWeight = 400
+   m_enableAutoSizing = 0
+   m_fontSizeMin = 18.0
+   m_fontSizeMax = 72.0
+   m_fontStyle = 0
+   m_HorizontalAlignment = 2
+   m_VerticalAlignment = 512
+   m_textAlignment = 65535
+   m_characterSpacing = 0.0
+   m_wordSpacing = 0.0
+   m_lineSpacing = 0.0
+   m_lineSpacingMax = 0.0
+   m_paragraphSpacing = 0.0
+   m_charWidthMaxAdj = 0.0
+   m_enableWordWrapping = 0
+   m_wordWrappingRatios = 0.4000000059604645
+   m_overflowMode = 0
+   m_linkedTextComponent = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   parentLinkedComponent = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_enableKerning = 0
+   m_enableExtraPadding = 0
+   checkPaddingRequired = 0
+   m_isRichText = 1
+   m_parseCtrlCharacters = 1
+   m_isOrthographic = 1
+   m_isCullingEnabled = 0
+   m_horizontalMapping = 0
+   m_verticalMapping = 0
+   m_uvLineOffset = 0.0
+   m_geometrySortingOrder = 0
+   m_IsTextObjectScaleStatic = 0
+   m_VertexBufferAutoSizeReduction = 0
+   m_useMaxVisibleDescender = 1
+   m_pageToDisplay = 1
+   m_margin = <UnknownObject<Vector4> x=0.0, y=0.0, z=0.0, w=0.0>
+   m_isUsingLegacyAnimationComponent = 0
+   m_isVolumetricText = 0
+   m_hasFontAssetChanged = 0
+   m_baseMaterial = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   m_maskOffset = <UnknownObject<Vector4> x=0.0, y=0.0, z=0.0, w=0.0>
+   object_reader = <ObjectReader MonoBehaviour>
+-- TextLocalizor (path_id=90959)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=18410, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=24494735360, assetsfile=<SerializedFile>)
+   m_Name = ''
+   text = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   tmpText = PPtr(m_FileID=0, m_PathID=102603, assetsfile=<SerializedFile>)
+   key = 'UI_SplitItem_Btn'
+   object_reader = <ObjectReader MonoBehaviour>
+
+=== Text (TMP) ===
+-- RectTransform (path_id=75495)
+   m_AnchorMax = Vector2f(0.0, 1.0)
+   m_AnchorMin = Vector2f(0.0, 1.0)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=8402, assetsfile=<SerializedFile>)
+   m_Pivot = Vector2f(0.5, 0.5)
+   m_SizeDelta = Vector2f(144.00999450683594, 52.130001068115234)
+   m_AnchoredPosition = Vector2f(375.0, -34.06500244140625)
+   m_Children = []
+   m_Father = PPtr(m_FileID=0, m_PathID=69392, assetsfile=<SerializedFile>)
+   m_LocalPosition = Vector3f(0.0, 0.0, 0.0)
+   m_LocalRotation = Quaternion(0.0, 0.0, 0.0, 1.0)
+   m_LocalScale = Vector3f(1.0, 1.0, 1.0)
+   m_Position = None
+   object_reader = <ObjectReader RectTransform>
+-- TextLocalizor (path_id=102985)
+   m_GameObject = PPtr(m_FileID=0, m_PathID=8402, assetsfile=<SerializedFile>)
+   m_Enabled = 1
+   m_Script = PPtr(m_FileID=16777216, m_PathID=24494735360, assetsfile=<SerializedFile>)
+   m_Name = ''
+   text = PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)
+   tmpText = PPtr(m_FileID=0, m_PathID=100523, assetsfile=<SerializedFile>)
+   key = 'UI_SplitItem'
+   object_reader = <ObjectReader MonoBehaviour>

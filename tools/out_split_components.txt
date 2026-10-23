@@ -1,0 +1,27 @@
+[ItemSplitDialogue] ItemSplitDialogue
+  components: RectTransform, CanvasRenderer, Image (MB), SplitDialogue (MB), FadeGroup (MB), CanvasGroup, CanvasGroupFade (MB)
+  sizeDelta=(0.0, 0.0) anchors=(0.0,0.0)-(1.0,1.0) pos=(0.0,0.0) pivot=(0.5,0.5)
+  [ItemSplitDialogue/Content] Content
+    components: RectTransform, CanvasRenderer, TranslucentImage (MB), TrueShadow (MB), RectTransformFade (MB), CanvasGroup, CanvasGroupFade (MB), VerticalLayoutGroup (MB), ContentSizeFitter (MB)
+    sizeDelta=(1150.0, 310.5299987792969) anchors=(0.5,0.5)-(0.5,0.5) pos=(0.0,0.0) pivot=(0.5,0.5)
+    [ItemSplitDialogue/Content/Text (TMP)] Text (TMP)
+      components: RectTransform, CanvasRenderer, TextMeshProUGUI (MB), TextLocalizor (MB)
+      sizeDelta=(144.00999450683594, 52.130001068115234) anchors=(0.0,1.0)-(0.0,1.0) pos=(375.0,-34.06500244140625) pivot=(0.5,0.5)
+    [ItemSplitDialogue/Content/SliderContainer] SliderContainer
+      components: RectTransform, LayoutElement (MB)
+      sizeDelta=(734.0, 162.39999389648438) anchors=(0.0,1.0)-(0.0,1.0) pos=(375.0,-141.3300018310547) pivot=(0.5,0.5)
+    [ItemSplitDialogue/Content/BtnContainer] BtnContainer
+      components: RectTransform, LayoutElement (MB)
+      sizeDelta=(734.0, 80.0) anchors=(0.0,1.0)-(0.0,1.0) pos=(375.0,-262.5299987792969) pivot=(0.5,0.5)
+      [ItemSplitDialogue/Content/BtnContainer/btn_ActivateQuest] btn_ActivateQuest
+        components: RectTransform, CanvasRenderer, Image (MB), Button (MB), LayoutElement (MB), TrueShadow (MB), PointerDownUpEvents (MB), SizeDeltaToggle (MB), SfxOnClick (MB)
+        sizeDelta=(-400.0, 0.0) anchors=(0.0,0.0)-(1.0,1.0) pos=(0.0,0.0) pivot=(0.5,0.5)
+        [ItemSplitDialogue/Content/BtnContainer/btn_ActivateQuest/Normal] Normal
+          components: RectTransform, CanvasRenderer, TextMeshProUGUI (MB), TextLocalizor (MB)
+          sizeDelta=(0.0, 0.0) anchors=(0.0,0.0)-(1.0,1.0) pos=(0.0,0.0) pivot=(0.5,0.5)
+        [ItemSplitDialogue/Content/BtnContainer/btn_ActivateQuest/Busy] Busy
+          components: RectTransform
+          sizeDelta=(0.0, 0.0) anchors=(0.0,0.0)-(1.0,1.0) pos=(0.0,0.0) pivot=(0.5,0.5)
+          [ItemSplitDialogue/Content/BtnContainer/btn_ActivateQuest/Busy/Image] Image
+            components: RectTransform, CanvasRenderer, Image (MB), Revolver (MB)
+            sizeDelta=(-16.0, -16.0) anchors=(0.0,0.0)-(1.0,1.0) pos=(0.0,0.0) pivot=(0.5,0.5)
